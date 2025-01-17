@@ -1,0 +1,2 @@
+python constituency_parsing/inject_typos.py --sentence_json json/gum_fiction_corpus.json --output_json json/gum_fiction_corpus_adversarial.json --gold_standard_output gold_standard/gum_fiction_corpus_adversarial.txt
+python constituency_parsing/inject_typos.py --sentence_json json/gum_news_corpus.json --output_json json/gum_news_corpus_adversarial.json --gold_standard_output gold_standard/gum_fiction_corpus_adversarial.txt

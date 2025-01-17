@@ -1,0 +1,1630 @@
+[
+    {
+        "sentence": "As she walked past it, the driver's glass started to open.",
+        "pos_tags": [
+            {
+                "word": "As",
+                "lemma": "as",
+                "upos": "SCONJ",
+                "pos": "IN"
+            },
+            {
+                "word": "she",
+                "lemma": "she",
+                "upos": "PRON",
+                "pos": "PRP"
+            },
+            {
+                "word": "walked",
+                "lemma": "walk",
+                "upos": "VERB",
+                "pos": "VBD"
+            },
+            {
+                "word": "past",
+                "lemma": "past",
+                "upos": "ADP",
+                "pos": "IN"
+            },
+            {
+                "word": "it",
+                "lemma": "it",
+                "upos": "PRON",
+                "pos": "PRP"
+            },
+            {
+                "word": ",",
+                "lemma": ",",
+                "upos": "PUNCT",
+                "pos": ","
+            },
+            {
+                "word": "the",
+                "lemma": "the",
+                "upos": "DET",
+                "pos": "DT"
+            },
+            {
+                "word": "driver",
+                "lemma": "driver",
+                "upos": "NOUN",
+                "pos": "NN"
+            },
+            {
+                "word": "'s",
+                "lemma": "'s",
+                "upos": "PART",
+                "pos": "POS"
+            },
+            {
+                "word": "glass",
+                "lemma": "glass",
+                "upos": "NOUN",
+                "pos": "NN"
+            },
+            {
+                "word": "started",
+                "lemma": "start",
+                "upos": "VERB",
+                "pos": "VBD"
+            },
+            {
+                "word": "to",
+                "lemma": "to",
+                "upos": "PART",
+                "pos": "TO"
+            },
+            {
+                "word": "open",
+                "lemma": "open",
+                "upos": "VERB",
+                "pos": "VB"
+            },
+            {
+                "word": ".",
+                "lemma": ".",
+                "upos": "PUNCT",
+                "pos": "."
+            }
+        ],
+        "const_tree": "(S (PP As (S (NP she) (VP walked (PP past (NP it))))) , (S (NP (NP the driver 's) glass) (VP started (S (VP to (VP open))))) .)",
+        "dependencies": [
+            {
+                "id": "1",
+                "word": "As",
+                "deprel": "mark",
+                "head": "3"
+            },
+            {
+                "id": "2",
+                "word": "she",
+                "deprel": "nsubj",
+                "head": "3"
+            },
+            {
+                "id": "3",
+                "word": "walked",
+                "deprel": "advcl",
+                "head": "11"
+            },
+            {
+                "id": "4",
+                "word": "past",
+                "deprel": "prep",
+                "head": "3"
+            },
+            {
+                "id": "5",
+                "word": "it",
+                "deprel": "pobj",
+                "head": "4"
+            },
+            {
+                "id": "6",
+                "word": ",",
+                "deprel": "punct",
+                "head": "11"
+            },
+            {
+                "id": "7",
+                "word": "the",
+                "deprel": "det",
+                "head": "8"
+            },
+            {
+                "id": "8",
+                "word": "driver",
+                "deprel": "poss",
+                "head": "10"
+            },
+            {
+                "id": "9",
+                "word": "'s",
+                "deprel": "case",
+                "head": "8"
+            },
+            {
+                "id": "10",
+                "word": "glass",
+                "deprel": "nsubj",
+                "head": "11"
+            },
+            {
+                "id": "11",
+                "word": "started",
+                "deprel": "ROOT",
+                "head": "0"
+            },
+            {
+                "id": "12",
+                "word": "to",
+                "deprel": "aux",
+                "head": "13"
+            },
+            {
+                "id": "13",
+                "word": "open",
+                "deprel": "xcomp",
+                "head": "11"
+            },
+            {
+                "id": "14",
+                "word": ".",
+                "deprel": "punct",
+                "head": "11"
+            }
+        ]
+    },
+    {
+        "sentence": "With a handkerchief she wiped the sweat from her forehead.",
+        "pos_tags": [
+            {
+                "word": "With",
+                "lemma": "with",
+                "upos": "ADP",
+                "pos": "IN"
+            },
+            {
+                "word": "a",
+                "lemma": "a",
+                "upos": "DET",
+                "pos": "DT"
+            },
+            {
+                "word": "handkerchief",
+                "lemma": "handkerchief",
+                "upos": "NOUN",
+                "pos": "NN"
+            },
+            {
+                "word": "she",
+                "lemma": "she",
+                "upos": "PRON",
+                "pos": "PRP"
+            },
+            {
+                "word": "wiped",
+                "lemma": "wipe",
+                "upos": "VERB",
+                "pos": "VBD"
+            },
+            {
+                "word": "the",
+                "lemma": "the",
+                "upos": "DET",
+                "pos": "DT"
+            },
+            {
+                "word": "sweat",
+                "lemma": "sweat",
+                "upos": "NOUN",
+                "pos": "NN"
+            },
+            {
+                "word": "from",
+                "lemma": "from",
+                "upos": "ADP",
+                "pos": "IN"
+            },
+            {
+                "word": "her",
+                "lemma": "her",
+                "upos": "PRON",
+                "pos": "PRP$"
+            },
+            {
+                "word": "forehead",
+                "lemma": "forehead",
+                "upos": "NOUN",
+                "pos": "NN"
+            },
+            {
+                "word": ".",
+                "lemma": ".",
+                "upos": "PUNCT",
+                "pos": "."
+            }
+        ],
+        "const_tree": "(S (PP With (NP a handkerchief)) (S (NP she) (VP wiped (NP the sweat) (PP from (NP her forehead)))) .)",
+        "dependencies": [
+            {
+                "id": "1",
+                "word": "With",
+                "deprel": "prep",
+                "head": "5"
+            },
+            {
+                "id": "2",
+                "word": "a",
+                "deprel": "det",
+                "head": "3"
+            },
+            {
+                "id": "3",
+                "word": "handkerchief",
+                "deprel": "pobj",
+                "head": "1"
+            },
+            {
+                "id": "4",
+                "word": "she",
+                "deprel": "nsubj",
+                "head": "5"
+            },
+            {
+                "id": "5",
+                "word": "wiped",
+                "deprel": "ROOT",
+                "head": "0"
+            },
+            {
+                "id": "6",
+                "word": "the",
+                "deprel": "det",
+                "head": "7"
+            },
+            {
+                "id": "7",
+                "word": "sweat",
+                "deprel": "dobj",
+                "head": "5"
+            },
+            {
+                "id": "8",
+                "word": "from",
+                "deprel": "prep",
+                "head": "5"
+            },
+            {
+                "id": "9",
+                "word": "her",
+                "deprel": "poss",
+                "head": "10"
+            },
+            {
+                "id": "10",
+                "word": "forehead",
+                "deprel": "pobj",
+                "head": "8"
+            },
+            {
+                "id": "11",
+                "word": ".",
+                "deprel": "punct",
+                "head": "5"
+            }
+        ]
+    },
+    {
+        "sentence": "Prudently, they had diversified into banking and insurance, and as a result their influence was felt at the highest level.",
+        "pos_tags": [
+            {
+                "word": "Prudently",
+                "lemma": "prudently",
+                "upos": "ADV",
+                "pos": "RB"
+            },
+            {
+                "word": ",",
+                "lemma": ",",
+                "upos": "PUNCT",
+                "pos": ","
+            },
+            {
+                "word": "they",
+                "lemma": "they",
+                "upos": "PRON",
+                "pos": "PRP"
+            },
+            {
+                "word": "had",
+                "lemma": "have",
+                "upos": "AUX",
+                "pos": "VBD"
+            },
+            {
+                "word": "diversified",
+                "lemma": "diversify",
+                "upos": "VERB",
+                "pos": "VBN"
+            },
+            {
+                "word": "into",
+                "lemma": "into",
+                "upos": "ADP",
+                "pos": "IN"
+            },
+            {
+                "word": "banking",
+                "lemma": "banking",
+                "upos": "NOUN",
+                "pos": "NN"
+            },
+            {
+                "word": "and",
+                "lemma": "and",
+                "upos": "CCONJ",
+                "pos": "CC"
+            },
+            {
+                "word": "insurance",
+                "lemma": "insurance",
+                "upos": "NOUN",
+                "pos": "NN"
+            },
+            {
+                "word": ",",
+                "lemma": ",",
+                "upos": "PUNCT",
+                "pos": ","
+            },
+            {
+                "word": "and",
+                "lemma": "and",
+                "upos": "CCONJ",
+                "pos": "CC"
+            },
+            {
+                "word": "as",
+                "lemma": "as",
+                "upos": "ADP",
+                "pos": "IN"
+            },
+            {
+                "word": "a",
+                "lemma": "a",
+                "upos": "DET",
+                "pos": "DT"
+            },
+            {
+                "word": "result",
+                "lemma": "result",
+                "upos": "NOUN",
+                "pos": "NN"
+            },
+            {
+                "word": "their",
+                "lemma": "their",
+                "upos": "PRON",
+                "pos": "PRP$"
+            },
+            {
+                "word": "influence",
+                "lemma": "influence",
+                "upos": "NOUN",
+                "pos": "NN"
+            },
+            {
+                "word": "was",
+                "lemma": "be",
+                "upos": "AUX",
+                "pos": "VBD"
+            },
+            {
+                "word": "felt",
+                "lemma": "feel",
+                "upos": "VERB",
+                "pos": "VBN"
+            },
+            {
+                "word": "at",
+                "lemma": "at",
+                "upos": "ADP",
+                "pos": "IN"
+            },
+            {
+                "word": "the",
+                "lemma": "the",
+                "upos": "DET",
+                "pos": "DT"
+            },
+            {
+                "word": "highest",
+                "lemma": "high",
+                "upos": "ADJ",
+                "pos": "JJS"
+            },
+            {
+                "word": "level",
+                "lemma": "level",
+                "upos": "NOUN",
+                "pos": "NN"
+            },
+            {
+                "word": ".",
+                "lemma": ".",
+                "upos": "PUNCT",
+                "pos": "."
+            }
+        ],
+        "const_tree": "(S (S (PP Prudently) , (S (NP they) (VP had (VP diversified (PP into (NP banking) and (NP insurance)))))) , and (S (PP as (NP a result)) (S (NP their influence) (VP was (VP felt (PP at (NP the (ADJP highest) level)))))))",
+        "dependencies": [
+            {
+                "id": "1",
+                "word": "Prudently",
+                "deprel": "advmod",
+                "head": "5"
+            },
+            {
+                "id": "2",
+                "word": ",",
+                "deprel": "punct",
+                "head": "5"
+            },
+            {
+                "id": "3",
+                "word": "they",
+                "deprel": "nsubj",
+                "head": "5"
+            },
+            {
+                "id": "4",
+                "word": "had",
+                "deprel": "aux",
+                "head": "5"
+            },
+            {
+                "id": "5",
+                "word": "diversified",
+                "deprel": "ROOT",
+                "head": "0"
+            },
+            {
+                "id": "6",
+                "word": "into",
+                "deprel": "prep",
+                "head": "5"
+            },
+            {
+                "id": "7",
+                "word": "banking",
+                "deprel": "pobj",
+                "head": "6"
+            },
+            {
+                "id": "8",
+                "word": "and",
+                "deprel": "cc",
+                "head": "7"
+            },
+            {
+                "id": "9",
+                "word": "insurance",
+                "deprel": "conj",
+                "head": "7"
+            },
+            {
+                "id": "10",
+                "word": ",",
+                "deprel": "punct",
+                "head": "5"
+            },
+            {
+                "id": "11",
+                "word": "and",
+                "deprel": "cc",
+                "head": "5"
+            },
+            {
+                "id": "12",
+                "word": "as",
+                "deprel": "prep",
+                "head": "18"
+            },
+            {
+                "id": "13",
+                "word": "a",
+                "deprel": "det",
+                "head": "14"
+            },
+            {
+                "id": "14",
+                "word": "result",
+                "deprel": "pobj",
+                "head": "12"
+            },
+            {
+                "id": "15",
+                "word": "their",
+                "deprel": "poss",
+                "head": "16"
+            },
+            {
+                "id": "16",
+                "word": "influence",
+                "deprel": "nsubjpass",
+                "head": "18"
+            },
+            {
+                "id": "17",
+                "word": "was",
+                "deprel": "auxpass",
+                "head": "18"
+            },
+            {
+                "id": "18",
+                "word": "felt",
+                "deprel": "conj",
+                "head": "5"
+            },
+            {
+                "id": "19",
+                "word": "at",
+                "deprel": "prep",
+                "head": "18"
+            },
+            {
+                "id": "20",
+                "word": "the",
+                "deprel": "det",
+                "head": "22"
+            },
+            {
+                "id": "21",
+                "word": "highest",
+                "deprel": "amod",
+                "head": "22"
+            },
+            {
+                "id": "22",
+                "word": "level",
+                "deprel": "pobj",
+                "head": "19"
+            },
+            {
+                "id": "23",
+                "word": ".",
+                "deprel": "punct",
+                "head": "18"
+            }
+        ]
+    },
+    {
+        "sentence": "The arranged marriage would be the social event of the following year.",
+        "pos_tags": [
+            {
+                "word": "The",
+                "lemma": "the",
+                "upos": "DET",
+                "pos": "DT"
+            },
+            {
+                "word": "arranged",
+                "lemma": "arrange",
+                "upos": "VERB",
+                "pos": "VBN"
+            },
+            {
+                "word": "marriage",
+                "lemma": "marriage",
+                "upos": "NOUN",
+                "pos": "NN"
+            },
+            {
+                "word": "would",
+                "lemma": "would",
+                "upos": "AUX",
+                "pos": "MD"
+            },
+            {
+                "word": "be",
+                "lemma": "be",
+                "upos": "AUX",
+                "pos": "VB"
+            },
+            {
+                "word": "the",
+                "lemma": "the",
+                "upos": "DET",
+                "pos": "DT"
+            },
+            {
+                "word": "social",
+                "lemma": "social",
+                "upos": "ADJ",
+                "pos": "JJ"
+            },
+            {
+                "word": "event",
+                "lemma": "event",
+                "upos": "NOUN",
+                "pos": "NN"
+            },
+            {
+                "word": "of",
+                "lemma": "of",
+                "upos": "ADP",
+                "pos": "IN"
+            },
+            {
+                "word": "the",
+                "lemma": "the",
+                "upos": "DET",
+                "pos": "DT"
+            },
+            {
+                "word": "following",
+                "lemma": "following",
+                "upos": "ADJ",
+                "pos": "JJ"
+            },
+            {
+                "word": "year",
+                "lemma": "year",
+                "upos": "NOUN",
+                "pos": "NN"
+            },
+            {
+                "word": ".",
+                "lemma": ".",
+                "upos": "PUNCT",
+                "pos": "."
+            }
+        ],
+        "const_tree": "(S (NP The arranged marriage) (VP would (VP be (NP (NP the social event) (PP of (NP the (ADJP following) year))))) .)",
+        "dependencies": [
+            {
+                "id": "1",
+                "word": "The",
+                "deprel": "det",
+                "head": "3"
+            },
+            {
+                "id": "2",
+                "word": "arranged",
+                "deprel": "amod",
+                "head": "3"
+            },
+            {
+                "id": "3",
+                "word": "marriage",
+                "deprel": "nsubj",
+                "head": "5"
+            },
+            {
+                "id": "4",
+                "word": "would",
+                "deprel": "aux",
+                "head": "5"
+            },
+            {
+                "id": "5",
+                "word": "be",
+                "deprel": "ROOT",
+                "head": "0"
+            },
+            {
+                "id": "6",
+                "word": "the",
+                "deprel": "det",
+                "head": "8"
+            },
+            {
+                "id": "7",
+                "word": "social",
+                "deprel": "amod",
+                "head": "8"
+            },
+            {
+                "id": "8",
+                "word": "event",
+                "deprel": "attr",
+                "head": "5"
+            },
+            {
+                "id": "9",
+                "word": "of",
+                "deprel": "prep",
+                "head": "8"
+            },
+            {
+                "id": "10",
+                "word": "the",
+                "deprel": "det",
+                "head": "12"
+            },
+            {
+                "id": "11",
+                "word": "following",
+                "deprel": "amod",
+                "head": "12"
+            },
+            {
+                "id": "12",
+                "word": "year",
+                "deprel": "pobj",
+                "head": "9"
+            },
+            {
+                "id": "13",
+                "word": ".",
+                "deprel": "punct",
+                "head": "5"
+            }
+        ]
+    },
+    {
+        "sentence": "When at last she spoke, her words were heavy and disjointed.",
+        "pos_tags": [
+            {
+                "word": "When",
+                "lemma": "when",
+                "upos": "SCONJ",
+                "pos": "WRB"
+            },
+            {
+                "word": "at",
+                "lemma": "at",
+                "upos": "ADP",
+                "pos": "IN"
+            },
+            {
+                "word": "last",
+                "lemma": "last",
+                "upos": "ADV",
+                "pos": "RB"
+            },
+            {
+                "word": "she",
+                "lemma": "she",
+                "upos": "PRON",
+                "pos": "PRP"
+            },
+            {
+                "word": "spoke",
+                "lemma": "speak",
+                "upos": "VERB",
+                "pos": "VBD"
+            },
+            {
+                "word": ",",
+                "lemma": ",",
+                "upos": "PUNCT",
+                "pos": ","
+            },
+            {
+                "word": "her",
+                "lemma": "her",
+                "upos": "PRON",
+                "pos": "PRP$"
+            },
+            {
+                "word": "words",
+                "lemma": "word",
+                "upos": "NOUN",
+                "pos": "NNS"
+            },
+            {
+                "word": "were",
+                "lemma": "be",
+                "upos": "AUX",
+                "pos": "VBD"
+            },
+            {
+                "word": "heavy",
+                "lemma": "heavy",
+                "upos": "ADJ",
+                "pos": "JJ"
+            },
+            {
+                "word": "and",
+                "lemma": "and",
+                "upos": "CCONJ",
+                "pos": "CC"
+            },
+            {
+                "word": "disjointed",
+                "lemma": "disjointed",
+                "upos": "ADJ",
+                "pos": "JJ"
+            },
+            {
+                "word": ".",
+                "lemma": ".",
+                "upos": "PUNCT",
+                "pos": "."
+            }
+        ],
+        "const_tree": "(S (SBAR (WHADVP When) at (S (PP last) (S (NP she) (VP spoke)))) , (S (NP her words) (VP were (ADJP (ADJP heavy) and (ADJP disjointed)))) .)",
+        "dependencies": [
+            {
+                "id": "1",
+                "word": "When",
+                "deprel": "advmod",
+                "head": "5"
+            },
+            {
+                "id": "2",
+                "word": "at",
+                "deprel": "advmod",
+                "head": "3"
+            },
+            {
+                "id": "3",
+                "word": "last",
+                "deprel": "advmod",
+                "head": "5"
+            },
+            {
+                "id": "4",
+                "word": "she",
+                "deprel": "nsubj",
+                "head": "5"
+            },
+            {
+                "id": "5",
+                "word": "spoke",
+                "deprel": "advcl",
+                "head": "9"
+            },
+            {
+                "id": "6",
+                "word": ",",
+                "deprel": "punct",
+                "head": "9"
+            },
+            {
+                "id": "7",
+                "word": "her",
+                "deprel": "poss",
+                "head": "8"
+            },
+            {
+                "id": "8",
+                "word": "words",
+                "deprel": "nsubj",
+                "head": "9"
+            },
+            {
+                "id": "9",
+                "word": "were",
+                "deprel": "ROOT",
+                "head": "0"
+            },
+            {
+                "id": "10",
+                "word": "heavy",
+                "deprel": "acomp",
+                "head": "9"
+            },
+            {
+                "id": "11",
+                "word": "and",
+                "deprel": "cc",
+                "head": "10"
+            },
+            {
+                "id": "12",
+                "word": "disjointed",
+                "deprel": "conj",
+                "head": "10"
+            },
+            {
+                "id": "13",
+                "word": ".",
+                "deprel": "punct",
+                "head": "9"
+            }
+        ]
+    },
+    {
+        "sentence": "The road to the coast was busy with traffic in both directions.",
+        "pos_tags": [
+            {
+                "word": "The",
+                "lemma": "the",
+                "upos": "DET",
+                "pos": "DT"
+            },
+            {
+                "word": "road",
+                "lemma": "road",
+                "upos": "NOUN",
+                "pos": "NN"
+            },
+            {
+                "word": "to",
+                "lemma": "to",
+                "upos": "ADP",
+                "pos": "IN"
+            },
+            {
+                "word": "the",
+                "lemma": "the",
+                "upos": "DET",
+                "pos": "DT"
+            },
+            {
+                "word": "coast",
+                "lemma": "coast",
+                "upos": "NOUN",
+                "pos": "NN"
+            },
+            {
+                "word": "was",
+                "lemma": "be",
+                "upos": "AUX",
+                "pos": "VBD"
+            },
+            {
+                "word": "busy",
+                "lemma": "busy",
+                "upos": "ADJ",
+                "pos": "JJ"
+            },
+            {
+                "word": "with",
+                "lemma": "with",
+                "upos": "ADP",
+                "pos": "IN"
+            },
+            {
+                "word": "traffic",
+                "lemma": "traffic",
+                "upos": "NOUN",
+                "pos": "NN"
+            },
+            {
+                "word": "in",
+                "lemma": "in",
+                "upos": "ADP",
+                "pos": "IN"
+            },
+            {
+                "word": "both",
+                "lemma": "both",
+                "upos": "DET",
+                "pos": "DT"
+            },
+            {
+                "word": "directions",
+                "lemma": "direction",
+                "upos": "NOUN",
+                "pos": "NNS"
+            },
+            {
+                "word": ".",
+                "lemma": ".",
+                "upos": "PUNCT",
+                "pos": "."
+            }
+        ],
+        "const_tree": "(S (NP (NP The road) (PP to (NP the coast))) (VP was (ADJP busy (PP with (NP traffic)) (PP in (NP both directions)))) .)",
+        "dependencies": [
+            {
+                "id": "1",
+                "word": "The",
+                "deprel": "det",
+                "head": "2"
+            },
+            {
+                "id": "2",
+                "word": "road",
+                "deprel": "nsubj",
+                "head": "6"
+            },
+            {
+                "id": "3",
+                "word": "to",
+                "deprel": "prep",
+                "head": "2"
+            },
+            {
+                "id": "4",
+                "word": "the",
+                "deprel": "det",
+                "head": "5"
+            },
+            {
+                "id": "5",
+                "word": "coast",
+                "deprel": "pobj",
+                "head": "3"
+            },
+            {
+                "id": "6",
+                "word": "was",
+                "deprel": "ROOT",
+                "head": "0"
+            },
+            {
+                "id": "7",
+                "word": "busy",
+                "deprel": "acomp",
+                "head": "6"
+            },
+            {
+                "id": "8",
+                "word": "with",
+                "deprel": "prep",
+                "head": "7"
+            },
+            {
+                "id": "9",
+                "word": "traffic",
+                "deprel": "pobj",
+                "head": "8"
+            },
+            {
+                "id": "10",
+                "word": "in",
+                "deprel": "prep",
+                "head": "9"
+            },
+            {
+                "id": "11",
+                "word": "both",
+                "deprel": "det",
+                "head": "12"
+            },
+            {
+                "id": "12",
+                "word": "directions",
+                "deprel": "pobj",
+                "head": "10"
+            },
+            {
+                "id": "13",
+                "word": ".",
+                "deprel": "punct",
+                "head": "6"
+            }
+        ]
+    },
+    {
+        "sentence": "The expected date came and went.",
+        "pos_tags": [
+            {
+                "word": "The",
+                "lemma": "the",
+                "upos": "DET",
+                "pos": "DT"
+            },
+            {
+                "word": "expected",
+                "lemma": "expected",
+                "upos": "ADJ",
+                "pos": "JJ"
+            },
+            {
+                "word": "date",
+                "lemma": "date",
+                "upos": "NOUN",
+                "pos": "NN"
+            },
+            {
+                "word": "came",
+                "lemma": "come",
+                "upos": "VERB",
+                "pos": "VBD"
+            },
+            {
+                "word": "and",
+                "lemma": "and",
+                "upos": "CCONJ",
+                "pos": "CC"
+            },
+            {
+                "word": "went",
+                "lemma": "go",
+                "upos": "VERB",
+                "pos": "VBD"
+            },
+            {
+                "word": ".",
+                "lemma": ".",
+                "upos": "PUNCT",
+                "pos": "."
+            }
+        ],
+        "const_tree": "(S (NP The expected date) (VP (VP came) and (VP went)) .)",
+        "dependencies": [
+            {
+                "id": "1",
+                "word": "The",
+                "deprel": "det",
+                "head": "3"
+            },
+            {
+                "id": "2",
+                "word": "expected",
+                "deprel": "amod",
+                "head": "3"
+            },
+            {
+                "id": "3",
+                "word": "date",
+                "deprel": "nsubj",
+                "head": "4"
+            },
+            {
+                "id": "4",
+                "word": "came",
+                "deprel": "ROOT",
+                "head": "0"
+            },
+            {
+                "id": "5",
+                "word": "and",
+                "deprel": "cc",
+                "head": "4"
+            },
+            {
+                "id": "6",
+                "word": "went",
+                "deprel": "conj",
+                "head": "4"
+            },
+            {
+                "id": "7",
+                "word": ".",
+                "deprel": "punct",
+                "head": "4"
+            }
+        ]
+    },
+    {
+        "sentence": "She sighed at the irony of it all, the waste of it all.",
+        "pos_tags": [
+            {
+                "word": "She",
+                "lemma": "she",
+                "upos": "PRON",
+                "pos": "PRP"
+            },
+            {
+                "word": "sighed",
+                "lemma": "sigh",
+                "upos": "VERB",
+                "pos": "VBD"
+            },
+            {
+                "word": "at",
+                "lemma": "at",
+                "upos": "ADP",
+                "pos": "IN"
+            },
+            {
+                "word": "the",
+                "lemma": "the",
+                "upos": "DET",
+                "pos": "DT"
+            },
+            {
+                "word": "irony",
+                "lemma": "irony",
+                "upos": "NOUN",
+                "pos": "NN"
+            },
+            {
+                "word": "of",
+                "lemma": "of",
+                "upos": "ADP",
+                "pos": "IN"
+            },
+            {
+                "word": "it",
+                "lemma": "it",
+                "upos": "PRON",
+                "pos": "PRP"
+            },
+            {
+                "word": "all",
+                "lemma": "all",
+                "upos": "PRON",
+                "pos": "DT"
+            },
+            {
+                "word": ",",
+                "lemma": ",",
+                "upos": "PUNCT",
+                "pos": ","
+            },
+            {
+                "word": "the",
+                "lemma": "the",
+                "upos": "DET",
+                "pos": "DT"
+            },
+            {
+                "word": "waste",
+                "lemma": "waste",
+                "upos": "NOUN",
+                "pos": "NN"
+            },
+            {
+                "word": "of",
+                "lemma": "of",
+                "upos": "ADP",
+                "pos": "IN"
+            },
+            {
+                "word": "it",
+                "lemma": "it",
+                "upos": "PRON",
+                "pos": "PRP"
+            },
+            {
+                "word": "all",
+                "lemma": "all",
+                "upos": "PRON",
+                "pos": "DT"
+            },
+            {
+                "word": ".",
+                "lemma": ".",
+                "upos": "PUNCT",
+                "pos": "."
+            }
+        ],
+        "const_tree": "(S (NP She) (VP sighed (PP at (NP (NP (NP the irony) (PP of (NP it all))) , (NP (NP the waste) (PP of (NP it all)) .)))))",
+        "dependencies": [
+            {
+                "id": "1",
+                "word": "She",
+                "deprel": "nsubj",
+                "head": "2"
+            },
+            {
+                "id": "2",
+                "word": "sighed",
+                "deprel": "ROOT",
+                "head": "0"
+            },
+            {
+                "id": "3",
+                "word": "at",
+                "deprel": "prep",
+                "head": "2"
+            },
+            {
+                "id": "4",
+                "word": "the",
+                "deprel": "det",
+                "head": "5"
+            },
+            {
+                "id": "5",
+                "word": "irony",
+                "deprel": "pobj",
+                "head": "3"
+            },
+            {
+                "id": "6",
+                "word": "of",
+                "deprel": "prep",
+                "head": "5"
+            },
+            {
+                "id": "7",
+                "word": "it",
+                "deprel": "pobj",
+                "head": "6"
+            },
+            {
+                "id": "8",
+                "word": "all",
+                "deprel": "appos",
+                "head": "7"
+            },
+            {
+                "id": "9",
+                "word": ",",
+                "deprel": "punct",
+                "head": "5"
+            },
+            {
+                "id": "10",
+                "word": "the",
+                "deprel": "det",
+                "head": "11"
+            },
+            {
+                "id": "11",
+                "word": "waste",
+                "deprel": "appos",
+                "head": "5"
+            },
+            {
+                "id": "12",
+                "word": "of",
+                "deprel": "prep",
+                "head": "11"
+            },
+            {
+                "id": "13",
+                "word": "it",
+                "deprel": "pobj",
+                "head": "12"
+            },
+            {
+                "id": "14",
+                "word": "all",
+                "deprel": "appos",
+                "head": "13"
+            },
+            {
+                "id": "15",
+                "word": ".",
+                "deprel": "punct",
+                "head": "2"
+            }
+        ]
+    },
+    {
+        "sentence": "All through August the rain hardly stopped.",
+        "pos_tags": [
+            {
+                "word": "All",
+                "lemma": "all",
+                "upos": "ADV",
+                "pos": "RB"
+            },
+            {
+                "word": "through",
+                "lemma": "through",
+                "upos": "ADP",
+                "pos": "IN"
+            },
+            {
+                "word": "August",
+                "lemma": "August",
+                "upos": "PROPN",
+                "pos": "NNP"
+            },
+            {
+                "word": "the",
+                "lemma": "the",
+                "upos": "DET",
+                "pos": "DT"
+            },
+            {
+                "word": "rain",
+                "lemma": "rain",
+                "upos": "NOUN",
+                "pos": "NN"
+            },
+            {
+                "word": "hardly",
+                "lemma": "hardly",
+                "upos": "ADV",
+                "pos": "RB"
+            },
+            {
+                "word": "stopped",
+                "lemma": "stop",
+                "upos": "VERB",
+                "pos": "VBD"
+            },
+            {
+                "word": ".",
+                "lemma": ".",
+                "upos": "PUNCT",
+                "pos": "."
+            }
+        ],
+        "const_tree": "(S (NP (NP All) (PP through August (NP the rain))) (VP (ADVP hardly) stopped) .)",
+        "dependencies": [
+            {
+                "id": "1",
+                "word": "All",
+                "deprel": "advmod",
+                "head": "2"
+            },
+            {
+                "id": "2",
+                "word": "through",
+                "deprel": "prep",
+                "head": "7"
+            },
+            {
+                "id": "3",
+                "word": "August",
+                "deprel": "pobj",
+                "head": "2"
+            },
+            {
+                "id": "4",
+                "word": "the",
+                "deprel": "det",
+                "head": "5"
+            },
+            {
+                "id": "5",
+                "word": "rain",
+                "deprel": "nsubj",
+                "head": "7"
+            },
+            {
+                "id": "6",
+                "word": "hardly",
+                "deprel": "advmod",
+                "head": "7"
+            },
+            {
+                "id": "7",
+                "word": "stopped",
+                "deprel": "ROOT",
+                "head": "0"
+            },
+            {
+                "id": "8",
+                "word": ".",
+                "deprel": "punct",
+                "head": "7"
+            }
+        ]
+    },
+    {
+        "sentence": "Thank the gods he didn't have to know of this.",
+        "pos_tags": [
+            {
+                "word": "Thank",
+                "lemma": "thank",
+                "upos": "VERB",
+                "pos": "VBP"
+            },
+            {
+                "word": "the",
+                "lemma": "the",
+                "upos": "DET",
+                "pos": "DT"
+            },
+            {
+                "word": "gods",
+                "lemma": "god",
+                "upos": "NOUN",
+                "pos": "NNS"
+            },
+            {
+                "word": "he",
+                "lemma": "he",
+                "upos": "PRON",
+                "pos": "PRP"
+            },
+            {
+                "word": "did",
+                "lemma": "do",
+                "upos": "AUX",
+                "pos": "VBD"
+            },
+            {
+                "word": "n't",
+                "lemma": "not",
+                "upos": "PART",
+                "pos": "RB"
+            },
+            {
+                "word": "have",
+                "lemma": "have",
+                "upos": "VERB",
+                "pos": "VB"
+            },
+            {
+                "word": "to",
+                "lemma": "to",
+                "upos": "PART",
+                "pos": "TO"
+            },
+            {
+                "word": "know",
+                "lemma": "know",
+                "upos": "VERB",
+                "pos": "VB"
+            },
+            {
+                "word": "of",
+                "lemma": "of",
+                "upos": "ADP",
+                "pos": "IN"
+            },
+            {
+                "word": "this",
+                "lemma": "this",
+                "upos": "PRON",
+                "pos": "DT"
+            },
+            {
+                "word": ".",
+                "lemma": ".",
+                "upos": "PUNCT",
+                "pos": "."
+            }
+        ],
+        "const_tree": "(S (VP Thank (NP (NP the gods) (SBAR (S (NP he) (VP did n't (VP have (S (VP to (VP know (PP of (NP this))))))))))) .)",
+        "dependencies": [
+            {
+                "id": "1",
+                "word": "Thank",
+                "deprel": "ROOT",
+                "head": "0"
+            },
+            {
+                "id": "2",
+                "word": "the",
+                "deprel": "det",
+                "head": "3"
+            },
+            {
+                "id": "3",
+                "word": "gods",
+                "deprel": "dobj",
+                "head": "1"
+            },
+            {
+                "id": "4",
+                "word": "he",
+                "deprel": "nsubj",
+                "head": "7"
+            },
+            {
+                "id": "5",
+                "word": "did",
+                "deprel": "aux",
+                "head": "7"
+            },
+            {
+                "id": "6",
+                "word": "n't",
+                "deprel": "neg",
+                "head": "7"
+            },
+            {
+                "id": "7",
+                "word": "have",
+                "deprel": "ccomp",
+                "head": "1"
+            },
+            {
+                "id": "8",
+                "word": "to",
+                "deprel": "aux",
+                "head": "9"
+            },
+            {
+                "id": "9",
+                "word": "know",
+                "deprel": "xcomp",
+                "head": "7"
+            },
+            {
+                "id": "10",
+                "word": "of",
+                "deprel": "prep",
+                "head": "9"
+            },
+            {
+                "id": "11",
+                "word": "this",
+                "deprel": "pobj",
+                "head": "10"
+            },
+            {
+                "id": "12",
+                "word": ".",
+                "deprel": "punct",
+                "head": "1"
+            }
+        ]
+    }
+]

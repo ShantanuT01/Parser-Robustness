@@ -1,0 +1,13 @@
+benepar==0.2.0
+matplotlib==3.9.2
+nlpaug==1.1.11
+nltk==3.9.1
+numpy==1.26.1
+pandas==2.2.3
+pyconll==3.2.0
+Requests==2.32.3
+scikit_learn==1.5.2
+seaborn==0.13.2
+spacy==3.8.2
+stanza==1.9.2
+tqdm==4.67.0

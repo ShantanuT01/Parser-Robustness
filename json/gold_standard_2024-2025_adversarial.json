@@ -1,0 +1,2095 @@
+[
+    {
+        "sentence": "As the walked past it, the driver's glass started to open.",
+        "const_tree": "(S (PP As (S (NP the) (VP walked (PP past (NP it))))) , (S (NP (NP the driver 's) glass) (VP started (S (VP to (VP open))))) .)",
+        "changed_pos": "PRON",
+        "original_word": "she",
+        "new_word": "the"
+    },
+    {
+        "sentence": "As Shi walked past it, the driver's glass started to open.",
+        "const_tree": "(S (PP As (S (NP Shi) (VP walked (PP past (NP it))))) , (S (NP (NP the driver 's) glass) (VP started (S (VP to (VP open))))) .)",
+        "changed_pos": "PRON",
+        "original_word": "she",
+        "new_word": "Shi"
+    },
+    {
+        "sentence": "As He walked past it, the driver's glass started to open.",
+        "const_tree": "(S (PP As (S (NP He) (VP walked (PP past (NP it))))) , (S (NP (NP the driver 's) glass) (VP started (S (VP to (VP open))))) .)",
+        "changed_pos": "PRON",
+        "original_word": "she",
+        "new_word": "He"
+    },
+    {
+        "sentence": "As sha walked past it, the driver's glass started to open.",
+        "const_tree": "(S (PP As (S (NP sha) (VP walked (PP past (NP it))))) , (S (NP (NP the driver 's) glass) (VP started (S (VP to (VP open))))) .)",
+        "changed_pos": "PRON",
+        "original_word": "she",
+        "new_word": "sha"
+    },
+    {
+        "sentence": "As she wakld past it, the driver's glass started to open.",
+        "const_tree": "(S (PP As (S (NP she) (VP wakld (PP past (NP it))))) , (S (NP (NP the driver 's) glass) (VP started (S (VP to (VP open))))) .)",
+        "changed_pos": "VERB",
+        "original_word": "walked",
+        "new_word": "wakld"
+    },
+    {
+        "sentence": "As she walked pst it, the driver's glass started to open.",
+        "const_tree": "(S (PP As (S (NP she) (VP walked (PP pst (NP it))))) , (S (NP (NP the driver 's) glass) (VP started (S (VP to (VP open))))) .)",
+        "changed_pos": "ADP",
+        "original_word": "past",
+        "new_word": "pst"
+    },
+    {
+        "sentence": "As she walked pas it, the driver's glass started to open.",
+        "const_tree": "(S (PP As (S (NP she) (VP walked (PP pas (NP it))))) , (S (NP (NP the driver 's) glass) (VP started (S (VP to (VP open))))) .)",
+        "changed_pos": "ADP",
+        "original_word": "past",
+        "new_word": "pas"
+    },
+    {
+        "sentence": "As she walked pasto it, the driver's glass started to open.",
+        "const_tree": "(S (PP As (S (NP she) (VP walked (PP pasto (NP it))))) , (S (NP (NP the driver 's) glass) (VP started (S (VP to (VP open))))) .)",
+        "changed_pos": "ADP",
+        "original_word": "past",
+        "new_word": "pasto"
+    },
+    {
+        "sentence": "As she walked pass it, the driver's glass started to open.",
+        "const_tree": "(S (PP As (S (NP she) (VP walked (PP pass (NP it))))) , (S (NP (NP the driver 's) glass) (VP started (S (VP to (VP open))))) .)",
+        "changed_pos": "ADP",
+        "original_word": "past",
+        "new_word": "pass"
+    },
+    {
+        "sentence": "As she walked past it, thhe driver's glass started to open.",
+        "const_tree": "(S (PP As (S (NP she) (VP walked (PP past (NP it))))) , (S (NP (NP thhe driver 's) glass) (VP started (S (VP to (VP open))))) .)",
+        "changed_pos": "DET",
+        "original_word": "the",
+        "new_word": "thhe"
+    },
+    {
+        "sentence": "As she walked past it, ths driver's glass started to open.",
+        "const_tree": "(S (PP As (S (NP she) (VP walked (PP past (NP it))))) , (S (NP (NP ths driver 's) glass) (VP started (S (VP to (VP open))))) .)",
+        "changed_pos": "DET",
+        "original_word": "the",
+        "new_word": "ths"
+    },
+    {
+        "sentence": "As she walked past it, their driver's glass started to open.",
+        "const_tree": "(S (PP As (S (NP she) (VP walked (PP past (NP it))))) , (S (NP (NP their driver 's) glass) (VP started (S (VP to (VP open))))) .)",
+        "changed_pos": "DET",
+        "original_word": "the",
+        "new_word": "their"
+    },
+    {
+        "sentence": "As she walked past it, hte driver's glass started to open.",
+        "const_tree": "(S (PP As (S (NP she) (VP walked (PP past (NP it))))) , (S (NP (NP hte driver 's) glass) (VP started (S (VP to (VP open))))) .)",
+        "changed_pos": "DET",
+        "original_word": "the",
+        "new_word": "hte"
+    },
+    {
+        "sentence": "As she walked past it, zhe driver's glass started to open.",
+        "const_tree": "(S (PP As (S (NP she) (VP walked (PP past (NP it))))) , (S (NP (NP zhe driver 's) glass) (VP started (S (VP to (VP open))))) .)",
+        "changed_pos": "DET",
+        "original_word": "the",
+        "new_word": "zhe"
+    },
+    {
+        "sentence": "As she walked past it, the inedrive's glass started to open.",
+        "const_tree": "(S (PP As (S (NP she) (VP walked (PP past (NP it))))) , (S (NP (NP the inedrive 's) glass) (VP started (S (VP to (VP open))))) .)",
+        "changed_pos": "NOUN",
+        "original_word": "driver",
+        "new_word": "inedrive"
+    },
+    {
+        "sentence": "As she walked past it, the driver's class started to open.",
+        "const_tree": "(S (PP As (S (NP she) (VP walked (PP past (NP it))))) , (S (NP (NP the driver 's) class) (VP started (S (VP to (VP open))))) .)",
+        "changed_pos": "NOUN",
+        "original_word": "glass",
+        "new_word": "class"
+    },
+    {
+        "sentence": "As she walked past it, the driver's glasses started to open.",
+        "const_tree": "(S (PP As (S (NP she) (VP walked (PP past (NP it))))) , (S (NP (NP the driver 's) glasses) (VP started (S (VP to (VP open))))) .)",
+        "changed_pos": "NOUN",
+        "original_word": "glass",
+        "new_word": "glasses"
+    },
+    {
+        "sentence": "As she walked past it, the driver's glas started to open.",
+        "const_tree": "(S (PP As (S (NP she) (VP walked (PP past (NP it))))) , (S (NP (NP the driver 's) glas) (VP started (S (VP to (VP open))))) .)",
+        "changed_pos": "NOUN",
+        "original_word": "glass",
+        "new_word": "glas"
+    },
+    {
+        "sentence": "As she walked past it, the driver's glussed started to open.",
+        "const_tree": "(S (PP As (S (NP she) (VP walked (PP past (NP it))))) , (S (NP (NP the driver 's) glussed) (VP started (S (VP to (VP open))))) .)",
+        "changed_pos": "NOUN",
+        "original_word": "glass",
+        "new_word": "glussed"
+    },
+    {
+        "sentence": "As she walked past it, the driver's glass starte to open.",
+        "const_tree": "(S (PP As (S (NP she) (VP walked (PP past (NP it))))) , (S (NP (NP the driver 's) glass) (VP starte (S (VP to (VP open))))) .)",
+        "changed_pos": "VERB",
+        "original_word": "started",
+        "new_word": "starte"
+    },
+    {
+        "sentence": "As she walked past it, the driver's glass sterted to open.",
+        "const_tree": "(S (PP As (S (NP she) (VP walked (PP past (NP it))))) , (S (NP (NP the driver 's) glass) (VP sterted (S (VP to (VP open))))) .)",
+        "changed_pos": "VERB",
+        "original_word": "started",
+        "new_word": "sterted"
+    },
+    {
+        "sentence": "As she walked past it, the driver's glass starter to open.",
+        "const_tree": "(S (PP As (S (NP she) (VP walked (PP past (NP it))))) , (S (NP (NP the driver 's) glass) (VP starter (S (VP to (VP open))))) .)",
+        "changed_pos": "VERB",
+        "original_word": "started",
+        "new_word": "starter"
+    },
+    {
+        "sentence": "As she walked past it, the driver's glass starters to open.",
+        "const_tree": "(S (PP As (S (NP she) (VP walked (PP past (NP it))))) , (S (NP (NP the driver 's) glass) (VP starters (S (VP to (VP open))))) .)",
+        "changed_pos": "VERB",
+        "original_word": "started",
+        "new_word": "starters"
+    },
+    {
+        "sentence": "As she walked past it, the driver's glass started to oppened.",
+        "const_tree": "(S (PP As (S (NP she) (VP walked (PP past (NP it))))) , (S (NP (NP the driver 's) glass) (VP started (S (VP to (VP oppened))))) .)",
+        "changed_pos": "VERB",
+        "original_word": "open",
+        "new_word": "oppened"
+    },
+    {
+        "sentence": "As she walked past it, the driver's glass started to oben.",
+        "const_tree": "(S (PP As (S (NP she) (VP walked (PP past (NP it))))) , (S (NP (NP the driver 's) glass) (VP started (S (VP to (VP oben))))) .)",
+        "changed_pos": "VERB",
+        "original_word": "open",
+        "new_word": "oben"
+    },
+    {
+        "sentence": "As she walked past it, the driver's glass started to offen.",
+        "const_tree": "(S (PP As (S (NP she) (VP walked (PP past (NP it))))) , (S (NP (NP the driver 's) glass) (VP started (S (VP to (VP offen))))) .)",
+        "changed_pos": "VERB",
+        "original_word": "open",
+        "new_word": "offen"
+    },
+    {
+        "sentence": "WIth a handkerchief she wiped the sweat from her forehead.",
+        "const_tree": "(S (PP WIth (NP a handkerchief)) (S (NP she) (VP wiped (NP the sweat) (PP from (NP her forehead)))) .)",
+        "changed_pos": "ADP",
+        "original_word": "With",
+        "new_word": "WIth"
+    },
+    {
+        "sentence": "With a handkerchief she wiped the sweat from her forehead.",
+        "const_tree": "(S (PP With (NP a handkerchief)) (S (NP she) (VP wiped (NP the sweat) (PP from (NP her forehead)))) .)",
+        "changed_pos": "ADP",
+        "original_word": "With",
+        "new_word": "With"
+    },
+    {
+        "sentence": "Whit a handkerchief she wiped the sweat from her forehead.",
+        "const_tree": "(S (PP Whit (NP a handkerchief)) (S (NP she) (VP wiped (NP the sweat) (PP from (NP her forehead)))) .)",
+        "changed_pos": "ADP",
+        "original_word": "With",
+        "new_word": "Whit"
+    },
+    {
+        "sentence": "With a handkerchief she wiped the sweat from her forehead.",
+        "const_tree": "(S (PP With (NP a handkerchief)) (S (NP she) (VP wiped (NP the sweat) (PP from (NP her forehead)))) .)",
+        "changed_pos": "NOUN",
+        "original_word": "handkerchief",
+        "new_word": "handkerchief"
+    },
+    {
+        "sentence": "With a handkerchief whe wiped the sweat from her forehead.",
+        "const_tree": "(S (PP With (NP a handkerchief)) (S (NP whe) (VP wiped (NP the sweat) (PP from (NP her forehead)))) .)",
+        "changed_pos": "PRON",
+        "original_word": "she",
+        "new_word": "whe"
+    },
+    {
+        "sentence": "With a handkerchief shee wiped the sweat from her forehead.",
+        "const_tree": "(S (PP With (NP a handkerchief)) (S (NP shee) (VP wiped (NP the sweat) (PP from (NP her forehead)))) .)",
+        "changed_pos": "PRON",
+        "original_word": "she",
+        "new_word": "shee"
+    },
+    {
+        "sentence": "With a handkerchief sha wiped the sweat from her forehead.",
+        "const_tree": "(S (PP With (NP a handkerchief)) (S (NP sha) (VP wiped (NP the sweat) (PP from (NP her forehead)))) .)",
+        "changed_pos": "PRON",
+        "original_word": "she",
+        "new_word": "sha"
+    },
+    {
+        "sentence": "With a handkerchief she wiped the sweat from her forehead.",
+        "const_tree": "(S (PP With (NP a handkerchief)) (S (NP she) (VP wiped (NP the sweat) (PP from (NP her forehead)))) .)",
+        "changed_pos": "VERB",
+        "original_word": "wiped",
+        "new_word": "wiped"
+    },
+    {
+        "sentence": "With a handkerchief she wiped tnhe sweat from her forehead.",
+        "const_tree": "(S (PP With (NP a handkerchief)) (S (NP she) (VP wiped (NP tnhe sweat) (PP from (NP her forehead)))) .)",
+        "changed_pos": "DET",
+        "original_word": "the",
+        "new_word": "tnhe"
+    },
+    {
+        "sentence": "With a handkerchief she wiped thw sweat from her forehead.",
+        "const_tree": "(S (PP With (NP a handkerchief)) (S (NP she) (VP wiped (NP thw sweat) (PP from (NP her forehead)))) .)",
+        "changed_pos": "DET",
+        "original_word": "the",
+        "new_word": "thw"
+    },
+    {
+        "sentence": "With a handkerchief she wiped e sweat from her forehead.",
+        "const_tree": "(S (PP With (NP a handkerchief)) (S (NP she) (VP wiped (NP e sweat) (PP from (NP her forehead)))) .)",
+        "changed_pos": "DET",
+        "original_word": "the",
+        "new_word": "e"
+    },
+    {
+        "sentence": "With a handkerchief she wiped trhe sweat from her forehead.",
+        "const_tree": "(S (PP With (NP a handkerchief)) (S (NP she) (VP wiped (NP trhe sweat) (PP from (NP her forehead)))) .)",
+        "changed_pos": "DET",
+        "original_word": "the",
+        "new_word": "trhe"
+    },
+    {
+        "sentence": "With a handkerchief she wiped They sweat from her forehead.",
+        "const_tree": "(S (PP With (NP a handkerchief)) (S (NP she) (VP wiped (NP They sweat) (PP from (NP her forehead)))) .)",
+        "changed_pos": "DET",
+        "original_word": "the",
+        "new_word": "They"
+    },
+    {
+        "sentence": "With a handkerchief she wiped the sweater from her forehead.",
+        "const_tree": "(S (PP With (NP a handkerchief)) (S (NP she) (VP wiped (NP the sweater) (PP from (NP her forehead)))) .)",
+        "changed_pos": "NOUN",
+        "original_word": "sweat",
+        "new_word": "sweater"
+    },
+    {
+        "sentence": "With a handkerchief she wiped the sweets from her forehead.",
+        "const_tree": "(S (PP With (NP a handkerchief)) (S (NP she) (VP wiped (NP the sweets) (PP from (NP her forehead)))) .)",
+        "changed_pos": "NOUN",
+        "original_word": "sweat",
+        "new_word": "sweets"
+    },
+    {
+        "sentence": "With a handkerchief she wiped the sweet from her forehead.",
+        "const_tree": "(S (PP With (NP a handkerchief)) (S (NP she) (VP wiped (NP the sweet) (PP from (NP her forehead)))) .)",
+        "changed_pos": "NOUN",
+        "original_word": "sweat",
+        "new_word": "sweet"
+    },
+    {
+        "sentence": "With a handkerchief she wiped the sweat drom her forehead.",
+        "const_tree": "(S (PP With (NP a handkerchief)) (S (NP she) (VP wiped (NP the sweat) (PP drom (NP her forehead)))) .)",
+        "changed_pos": "ADP",
+        "original_word": "from",
+        "new_word": "drom"
+    },
+    {
+        "sentence": "With a handkerchief she wiped the sweat froon her forehead.",
+        "const_tree": "(S (PP With (NP a handkerchief)) (S (NP she) (VP wiped (NP the sweat) (PP froon (NP her forehead)))) .)",
+        "changed_pos": "ADP",
+        "original_word": "from",
+        "new_word": "froon"
+    },
+    {
+        "sentence": "With a handkerchief she wiped the sweat forom her forehead.",
+        "const_tree": "(S (PP With (NP a handkerchief)) (S (NP she) (VP wiped (NP the sweat) (PP forom (NP her forehead)))) .)",
+        "changed_pos": "ADP",
+        "original_word": "from",
+        "new_word": "forom"
+    },
+    {
+        "sentence": "With a handkerchief she wiped the sweat forme her forehead.",
+        "const_tree": "(S (PP With (NP a handkerchief)) (S (NP she) (VP wiped (NP the sweat) (PP forme (NP her forehead)))) .)",
+        "changed_pos": "ADP",
+        "original_word": "from",
+        "new_word": "forme"
+    },
+    {
+        "sentence": "With a handkerchief she wiped the sweat form her forehead.",
+        "const_tree": "(S (PP With (NP a handkerchief)) (S (NP she) (VP wiped (NP the sweat) (PP form (NP her forehead)))) .)",
+        "changed_pos": "ADP",
+        "original_word": "from",
+        "new_word": "form"
+    },
+    {
+        "sentence": "With a handkerchief she wiped the sweat from het forehead.",
+        "const_tree": "(S (PP With (NP a handkerchief)) (S (NP she) (VP wiped (NP the sweat) (PP from (NP het forehead)))) .)",
+        "changed_pos": "PRON",
+        "original_word": "her",
+        "new_word": "het"
+    },
+    {
+        "sentence": "With a handkerchief she wiped the sweat from ho forehead.",
+        "const_tree": "(S (PP With (NP a handkerchief)) (S (NP she) (VP wiped (NP the sweat) (PP from (NP ho forehead)))) .)",
+        "changed_pos": "PRON",
+        "original_word": "her",
+        "new_word": "ho"
+    },
+    {
+        "sentence": "With a handkerchief she wiped the sweat from hef forehead.",
+        "const_tree": "(S (PP With (NP a handkerchief)) (S (NP she) (VP wiped (NP the sweat) (PP from (NP hef forehead)))) .)",
+        "changed_pos": "PRON",
+        "original_word": "her",
+        "new_word": "hef"
+    },
+    {
+        "sentence": "With a handkerchief she wiped the sweat from had forehead.",
+        "const_tree": "(S (PP With (NP a handkerchief)) (S (NP she) (VP wiped (NP the sweat) (PP from (NP had forehead)))) .)",
+        "changed_pos": "PRON",
+        "original_word": "her",
+        "new_word": "had"
+    },
+    {
+        "sentence": "With a handkerchief she wiped the sweat from her forehead.",
+        "const_tree": "(S (PP With (NP a handkerchief)) (S (NP she) (VP wiped (NP the sweat) (PP from (NP her forehead)))) .)",
+        "changed_pos": "NOUN",
+        "original_word": "forehead",
+        "new_word": "forehead"
+    },
+    {
+        "sentence": "Prudently, they had diversified into banking and insurance, and as a result their influence was felt at the highest level.",
+        "const_tree": "(S (S (PP Prudently) , (S (NP they) (VP had (VP diversified (PP into (NP banking) and (NP insurance)))))) , and (S (PP as (NP a result)) (S (NP their influence) (VP was (VP felt (PP at (NP the (ADJP highest) level)))))))",
+        "changed_pos": "ADV",
+        "original_word": "Prudently",
+        "new_word": "Prudently"
+    },
+    {
+        "sentence": "Prudently, Their had diversified into banking and insurance, and as a result their influence was felt at the highest level.",
+        "const_tree": "(S (S (PP Prudently) , (S (NP Their) (VP had (VP diversified (PP into (NP banking) and (NP insurance)))))) , and (S (PP as (NP a result)) (S (NP their influence) (VP was (VP felt (PP at (NP the (ADJP highest) level)))))))",
+        "changed_pos": "PRON",
+        "original_word": "they",
+        "new_word": "Their"
+    },
+    {
+        "sentence": "Prudently, thy had diversified into banking and insurance, and as a result their influence was felt at the highest level.",
+        "const_tree": "(S (S (PP Prudently) , (S (NP thy) (VP had (VP diversified (PP into (NP banking) and (NP insurance)))))) , and (S (PP as (NP a result)) (S (NP their influence) (VP was (VP felt (PP at (NP the (ADJP highest) level)))))))",
+        "changed_pos": "PRON",
+        "original_word": "they",
+        "new_word": "thy"
+    },
+    {
+        "sentence": "Prudently, thay had diversified into banking and insurance, and as a result their influence was felt at the highest level.",
+        "const_tree": "(S (S (PP Prudently) , (S (NP thay) (VP had (VP diversified (PP into (NP banking) and (NP insurance)))))) , and (S (PP as (NP a result)) (S (NP their influence) (VP was (VP felt (PP at (NP the (ADJP highest) level)))))))",
+        "changed_pos": "PRON",
+        "original_word": "they",
+        "new_word": "thay"
+    },
+    {
+        "sentence": "Prudently, Then had diversified into banking and insurance, and as a result their influence was felt at the highest level.",
+        "const_tree": "(S (S (PP Prudently) , (S (NP Then) (VP had (VP diversified (PP into (NP banking) and (NP insurance)))))) , and (S (PP as (NP a result)) (S (NP their influence) (VP was (VP felt (PP at (NP the (ADJP highest) level)))))))",
+        "changed_pos": "PRON",
+        "original_word": "they",
+        "new_word": "Then"
+    },
+    {
+        "sentence": "Prudently, then had diversified into banking and insurance, and as a result their influence was felt at the highest level.",
+        "const_tree": "(S (S (PP Prudently) , (S (NP then) (VP had (VP diversified (PP into (NP banking) and (NP insurance)))))) , and (S (PP as (NP a result)) (S (NP their influence) (VP was (VP felt (PP at (NP the (ADJP highest) level)))))))",
+        "changed_pos": "PRON",
+        "original_word": "they",
+        "new_word": "then"
+    },
+    {
+        "sentence": "Prudently, they haved diversified into banking and insurance, and as a result their influence was felt at the highest level.",
+        "const_tree": "(S (S (PP Prudently) , (S (NP they) (VP haved (VP diversified (PP into (NP banking) and (NP insurance)))))) , and (S (PP as (NP a result)) (S (NP their influence) (VP was (VP felt (PP at (NP the (ADJP highest) level)))))))",
+        "changed_pos": "AUX",
+        "original_word": "had",
+        "new_word": "haved"
+    },
+    {
+        "sentence": "Prudently, they hve diversified into banking and insurance, and as a result their influence was felt at the highest level.",
+        "const_tree": "(S (S (PP Prudently) , (S (NP they) (VP hve (VP diversified (PP into (NP banking) and (NP insurance)))))) , and (S (PP as (NP a result)) (S (NP their influence) (VP was (VP felt (PP at (NP the (ADJP highest) level)))))))",
+        "changed_pos": "AUX",
+        "original_word": "had",
+        "new_word": "hve"
+    },
+    {
+        "sentence": "Prudently, they hard diversified into banking and insurance, and as a result their influence was felt at the highest level.",
+        "const_tree": "(S (S (PP Prudently) , (S (NP they) (VP hard (VP diversified (PP into (NP banking) and (NP insurance)))))) , and (S (PP as (NP a result)) (S (NP their influence) (VP was (VP felt (PP at (NP the (ADJP highest) level)))))))",
+        "changed_pos": "AUX",
+        "original_word": "had",
+        "new_word": "hard"
+    },
+    {
+        "sentence": "Prudently, they have diversified into banking and insurance, and as a result their influence was felt at the highest level.",
+        "const_tree": "(S (S (PP Prudently) , (S (NP they) (VP have (VP diversified (PP into (NP banking) and (NP insurance)))))) , and (S (PP as (NP a result)) (S (NP their influence) (VP was (VP felt (PP at (NP the (ADJP highest) level)))))))",
+        "changed_pos": "AUX",
+        "original_word": "had",
+        "new_word": "have"
+    },
+    {
+        "sentence": "Prudently, they had diversified into banking and insurance, and as a result their influence was felt at the highest level.",
+        "const_tree": "(S (S (PP Prudently) , (S (NP they) (VP had (VP diversified (PP into (NP banking) and (NP insurance)))))) , and (S (PP as (NP a result)) (S (NP their influence) (VP was (VP felt (PP at (NP the (ADJP highest) level)))))))",
+        "changed_pos": "VERB",
+        "original_word": "diversified",
+        "new_word": "diversified"
+    },
+    {
+        "sentence": "Prudently, they had diversified ionto banking and insurance, and as a result their influence was felt at the highest level.",
+        "const_tree": "(S (S (PP Prudently) , (S (NP they) (VP had (VP diversified (PP ionto (NP banking) and (NP insurance)))))) , and (S (PP as (NP a result)) (S (NP their influence) (VP was (VP felt (PP at (NP the (ADJP highest) level)))))))",
+        "changed_pos": "ADP",
+        "original_word": "into",
+        "new_word": "ionto"
+    },
+    {
+        "sentence": "Prudently, they had diversified ino banking and insurance, and as a result their influence was felt at the highest level.",
+        "const_tree": "(S (S (PP Prudently) , (S (NP they) (VP had (VP diversified (PP ino (NP banking) and (NP insurance)))))) , and (S (PP as (NP a result)) (S (NP their influence) (VP was (VP felt (PP at (NP the (ADJP highest) level)))))))",
+        "changed_pos": "ADP",
+        "original_word": "into",
+        "new_word": "ino"
+    },
+    {
+        "sentence": "Prudently, they had diversified itno banking and insurance, and as a result their influence was felt at the highest level.",
+        "const_tree": "(S (S (PP Prudently) , (S (NP they) (VP had (VP diversified (PP itno (NP banking) and (NP insurance)))))) , and (S (PP as (NP a result)) (S (NP their influence) (VP was (VP felt (PP at (NP the (ADJP highest) level)))))))",
+        "changed_pos": "ADP",
+        "original_word": "into",
+        "new_word": "itno"
+    },
+    {
+        "sentence": "Prudently, they had diversified in banking and insurance, and as a result their influence was felt at the highest level.",
+        "const_tree": "(S (S (PP Prudently) , (S (NP they) (VP had (VP diversified (PP in (NP banking) and (NP insurance)))))) , and (S (PP as (NP a result)) (S (NP their influence) (VP was (VP felt (PP at (NP the (ADJP highest) level)))))))",
+        "changed_pos": "ADP",
+        "original_word": "into",
+        "new_word": "in"
+    },
+    {
+        "sentence": "Prudently, they had diversified into banking and insurance, and as a result their influence was felt at the highest level.",
+        "const_tree": "(S (S (PP Prudently) , (S (NP they) (VP had (VP diversified (PP into (NP banking) and (NP insurance)))))) , and (S (PP as (NP a result)) (S (NP their influence) (VP was (VP felt (PP at (NP the (ADJP highest) level)))))))",
+        "changed_pos": "NOUN",
+        "original_word": "banking",
+        "new_word": "banking"
+    },
+    {
+        "sentence": "Prudently, they had diversified into banking and insuarance, and as a result their influence was felt at the highest level.",
+        "const_tree": "(S (S (PP Prudently) , (S (NP they) (VP had (VP diversified (PP into (NP banking) and (NP insuarance)))))) , and (S (PP as (NP a result)) (S (NP their influence) (VP was (VP felt (PP at (NP the (ADJP highest) level)))))))",
+        "changed_pos": "NOUN",
+        "original_word": "insurance",
+        "new_word": "insuarance"
+    },
+    {
+        "sentence": "Prudently, they had diversified into banking and insuance, and as a result their influence was felt at the highest level.",
+        "const_tree": "(S (S (PP Prudently) , (S (NP they) (VP had (VP diversified (PP into (NP banking) and (NP insuance)))))) , and (S (PP as (NP a result)) (S (NP their influence) (VP was (VP felt (PP at (NP the (ADJP highest) level)))))))",
+        "changed_pos": "NOUN",
+        "original_word": "insurance",
+        "new_word": "insuance"
+    },
+    {
+        "sentence": "Prudently, they had diversified into banking and assurance, and as a result their influence was felt at the highest level.",
+        "const_tree": "(S (S (PP Prudently) , (S (NP they) (VP had (VP diversified (PP into (NP banking) and (NP assurance)))))) , and (S (PP as (NP a result)) (S (NP their influence) (VP was (VP felt (PP at (NP the (ADJP highest) level)))))))",
+        "changed_pos": "NOUN",
+        "original_word": "insurance",
+        "new_word": "assurance"
+    },
+    {
+        "sentence": "Prudently, they had diversified into banking and insureance, and as a result their influence was felt at the highest level.",
+        "const_tree": "(S (S (PP Prudently) , (S (NP they) (VP had (VP diversified (PP into (NP banking) and (NP insureance)))))) , and (S (PP as (NP a result)) (S (NP their influence) (VP was (VP felt (PP at (NP the (ADJP highest) level)))))))",
+        "changed_pos": "NOUN",
+        "original_word": "insurance",
+        "new_word": "insureance"
+    },
+    {
+        "sentence": "Prudently, they had diversified into banking and injurance, and as a result their influence was felt at the highest level.",
+        "const_tree": "(S (S (PP Prudently) , (S (NP they) (VP had (VP diversified (PP into (NP banking) and (NP injurance)))))) , and (S (PP as (NP a result)) (S (NP their influence) (VP was (VP felt (PP at (NP the (ADJP highest) level)))))))",
+        "changed_pos": "NOUN",
+        "original_word": "insurance",
+        "new_word": "injurance"
+    },
+    {
+        "sentence": "Prudently, they had diversified into banking and insurance, and as a resolt their influence was felt at the highest level.",
+        "const_tree": "(S (S (PP Prudently) , (S (NP they) (VP had (VP diversified (PP into (NP banking) and (NP insurance)))))) , and (S (PP as (NP a resolt)) (S (NP their influence) (VP was (VP felt (PP at (NP the (ADJP highest) level)))))))",
+        "changed_pos": "NOUN",
+        "original_word": "result",
+        "new_word": "resolt"
+    },
+    {
+        "sentence": "Prudently, they had diversified into banking and insurance, and as a reslut their influence was felt at the highest level.",
+        "const_tree": "(S (S (PP Prudently) , (S (NP they) (VP had (VP diversified (PP into (NP banking) and (NP insurance)))))) , and (S (PP as (NP a reslut)) (S (NP their influence) (VP was (VP felt (PP at (NP the (ADJP highest) level)))))))",
+        "changed_pos": "NOUN",
+        "original_word": "result",
+        "new_word": "reslut"
+    },
+    {
+        "sentence": "Prudently, they had diversified into banking and insurance, and as a result there influence was felt at the highest level.",
+        "const_tree": "(S (S (PP Prudently) , (S (NP they) (VP had (VP diversified (PP into (NP banking) and (NP insurance)))))) , and (S (PP as (NP a result)) (S (NP there influence) (VP was (VP felt (PP at (NP the (ADJP highest) level)))))))",
+        "changed_pos": "PRON",
+        "original_word": "their",
+        "new_word": "there"
+    },
+    {
+        "sentence": "Prudently, they had diversified into banking and insurance, and as a result they's influence was felt at the highest level.",
+        "const_tree": "(S (S (PP Prudently) , (S (NP they) (VP had (VP diversified (PP into (NP banking) and (NP insurance)))))) , and (S (PP as (NP a result)) (S (NP they's influence) (VP was (VP felt (PP at (NP the (ADJP highest) level)))))))",
+        "changed_pos": "PRON",
+        "original_word": "their",
+        "new_word": "they's"
+    },
+    {
+        "sentence": "Prudently, they had diversified into banking and insurance, and as a result thir influence was felt at the highest level.",
+        "const_tree": "(S (S (PP Prudently) , (S (NP they) (VP had (VP diversified (PP into (NP banking) and (NP insurance)))))) , and (S (PP as (NP a result)) (S (NP thir influence) (VP was (VP felt (PP at (NP the (ADJP highest) level)))))))",
+        "changed_pos": "PRON",
+        "original_word": "their",
+        "new_word": "thir"
+    },
+    {
+        "sentence": "Prudently, they had diversified into banking and insurance, and as a result their enfluence was felt at the highest level.",
+        "const_tree": "(S (S (PP Prudently) , (S (NP they) (VP had (VP diversified (PP into (NP banking) and (NP insurance)))))) , and (S (PP as (NP a result)) (S (NP their enfluence) (VP was (VP felt (PP at (NP the (ADJP highest) level)))))))",
+        "changed_pos": "NOUN",
+        "original_word": "influence",
+        "new_word": "enfluence"
+    },
+    {
+        "sentence": "Prudently, they had diversified into banking and insurance, and as a result their infulence was felt at the highest level.",
+        "const_tree": "(S (S (PP Prudently) , (S (NP they) (VP had (VP diversified (PP into (NP banking) and (NP insurance)))))) , and (S (PP as (NP a result)) (S (NP their infulence) (VP was (VP felt (PP at (NP the (ADJP highest) level)))))))",
+        "changed_pos": "NOUN",
+        "original_word": "influence",
+        "new_word": "infulence"
+    },
+    {
+        "sentence": "Prudently, they had diversified into banking and insurance, and as a result their fluence was felt at the highest level.",
+        "const_tree": "(S (S (PP Prudently) , (S (NP they) (VP had (VP diversified (PP into (NP banking) and (NP insurance)))))) , and (S (PP as (NP a result)) (S (NP their fluence) (VP was (VP felt (PP at (NP the (ADJP highest) level)))))))",
+        "changed_pos": "NOUN",
+        "original_word": "influence",
+        "new_word": "fluence"
+    },
+    {
+        "sentence": "Prudently, they had diversified into banking and insurance, and as a result their infuence was felt at the highest level.",
+        "const_tree": "(S (S (PP Prudently) , (S (NP they) (VP had (VP diversified (PP into (NP banking) and (NP insurance)))))) , and (S (PP as (NP a result)) (S (NP their infuence) (VP was (VP felt (PP at (NP the (ADJP highest) level)))))))",
+        "changed_pos": "NOUN",
+        "original_word": "influence",
+        "new_word": "infuence"
+    },
+    {
+        "sentence": "Prudently, they had diversified into banking and insurance, and as a result their influence will felt at the highest level.",
+        "const_tree": "(S (S (PP Prudently) , (S (NP they) (VP had (VP diversified (PP into (NP banking) and (NP insurance)))))) , and (S (PP as (NP a result)) (S (NP their influence) (VP will (VP felt (PP at (NP the (ADJP highest) level)))))))",
+        "changed_pos": "AUX",
+        "original_word": "was",
+        "new_word": "will"
+    },
+    {
+        "sentence": "Prudently, they had diversified into banking and insurance, and as a result their influence waz felt at the highest level.",
+        "const_tree": "(S (S (PP Prudently) , (S (NP they) (VP had (VP diversified (PP into (NP banking) and (NP insurance)))))) , and (S (PP as (NP a result)) (S (NP their influence) (VP waz (VP felt (PP at (NP the (ADJP highest) level)))))))",
+        "changed_pos": "AUX",
+        "original_word": "was",
+        "new_word": "waz"
+    },
+    {
+        "sentence": "Prudently, they had diversified into banking and insurance, and as a result their influence waw felt at the highest level.",
+        "const_tree": "(S (S (PP Prudently) , (S (NP they) (VP had (VP diversified (PP into (NP banking) and (NP insurance)))))) , and (S (PP as (NP a result)) (S (NP their influence) (VP waw (VP felt (PP at (NP the (ADJP highest) level)))))))",
+        "changed_pos": "AUX",
+        "original_word": "was",
+        "new_word": "waw"
+    },
+    {
+        "sentence": "Prudently, they had diversified into banking and insurance, and as a result their influence wass felt at the highest level.",
+        "const_tree": "(S (S (PP Prudently) , (S (NP they) (VP had (VP diversified (PP into (NP banking) and (NP insurance)))))) , and (S (PP as (NP a result)) (S (NP their influence) (VP wass (VP felt (PP at (NP the (ADJP highest) level)))))))",
+        "changed_pos": "AUX",
+        "original_word": "was",
+        "new_word": "wass"
+    },
+    {
+        "sentence": "Prudently, they had diversified into banking and insurance, and as a result their influence whas felt at the highest level.",
+        "const_tree": "(S (S (PP Prudently) , (S (NP they) (VP had (VP diversified (PP into (NP banking) and (NP insurance)))))) , and (S (PP as (NP a result)) (S (NP their influence) (VP whas (VP felt (PP at (NP the (ADJP highest) level)))))))",
+        "changed_pos": "AUX",
+        "original_word": "was",
+        "new_word": "whas"
+    },
+    {
+        "sentence": "Prudently, they had diversified into banking and insurance, and as a result their influence was felled at the highest level.",
+        "const_tree": "(S (S (PP Prudently) , (S (NP they) (VP had (VP diversified (PP into (NP banking) and (NP insurance)))))) , and (S (PP as (NP a result)) (S (NP their influence) (VP was (VP felled (PP at (NP the (ADJP highest) level)))))))",
+        "changed_pos": "VERB",
+        "original_word": "felt",
+        "new_word": "felled"
+    },
+    {
+        "sentence": "Prudently, they had diversified into banking and insurance, and as a result their influence was fell at the highest level.",
+        "const_tree": "(S (S (PP Prudently) , (S (NP they) (VP had (VP diversified (PP into (NP banking) and (NP insurance)))))) , and (S (PP as (NP a result)) (S (NP their influence) (VP was (VP fell (PP at (NP the (ADJP highest) level)))))))",
+        "changed_pos": "VERB",
+        "original_word": "felt",
+        "new_word": "fell"
+    },
+    {
+        "sentence": "Prudently, they had diversified into banking and insurance, and as a result their influence was feld at the highest level.",
+        "const_tree": "(S (S (PP Prudently) , (S (NP they) (VP had (VP diversified (PP into (NP banking) and (NP insurance)))))) , and (S (PP as (NP a result)) (S (NP their influence) (VP was (VP feld (PP at (NP the (ADJP highest) level)))))))",
+        "changed_pos": "VERB",
+        "original_word": "felt",
+        "new_word": "feld"
+    },
+    {
+        "sentence": "Prudently, they had diversified into banking and insurance, and as a result their influence was feelled at the highest level.",
+        "const_tree": "(S (S (PP Prudently) , (S (NP they) (VP had (VP diversified (PP into (NP banking) and (NP insurance)))))) , and (S (PP as (NP a result)) (S (NP their influence) (VP was (VP feelled (PP at (NP the (ADJP highest) level)))))))",
+        "changed_pos": "VERB",
+        "original_word": "felt",
+        "new_word": "feelled"
+    },
+    {
+        "sentence": "Prudently, hty had diversified into banking and insurance, and as a result htir influence was felt at ht highest level.",
+        "const_tree": "(S (S (PP Prudently) , (S (NP hty) (VP had (VP diversified (PP into (NP banking) and (NP insurance)))))) , and (S (PP as (NP a result)) (S (NP htir influence) (VP was (VP felt (PP at (NP ht (ADJP highest) level)))))))",
+        "changed_pos": "DET",
+        "original_word": "the",
+        "new_word": "ht"
+    },
+    {
+        "sentence": "Prudently, there'sy had diversified into banking and insurance, and as a result there'sir influence was felt at there's highest level.",
+        "const_tree": "(S (S (PP Prudently) , (S (NP there'sy) (VP had (VP diversified (PP into (NP banking) and (NP insurance)))))) , and (S (PP as (NP a result)) (S (NP there'sir influence) (VP was (VP felt (PP at (NP there's (ADJP highest) level)))))))",
+        "changed_pos": "DET",
+        "original_word": "the",
+        "new_word": "there's"
+    },
+    {
+        "sentence": "Prudently, THERy had diversified into banking and insurance, and as a result THERir influence was felt at THER highest level.",
+        "const_tree": "(S (S (PP Prudently) , (S (NP THERy) (VP had (VP diversified (PP into (NP banking) and (NP insurance)))))) , and (S (PP as (NP a result)) (S (NP THERir influence) (VP was (VP felt (PP at (NP THER (ADJP highest) level)))))))",
+        "changed_pos": "DET",
+        "original_word": "the",
+        "new_word": "THER"
+    },
+    {
+        "sentence": "Prudently, dy had diversified into banking and insurance, and as a result dir influence was felt at d highest level.",
+        "const_tree": "(S (S (PP Prudently) , (S (NP dy) (VP had (VP diversified (PP into (NP banking) and (NP insurance)))))) , and (S (PP as (NP a result)) (S (NP dir influence) (VP was (VP felt (PP at (NP d (ADJP highest) level)))))))",
+        "changed_pos": "DET",
+        "original_word": "the",
+        "new_word": "d"
+    },
+    {
+        "sentence": "Prudently, ghty had diversified into banking and insurance, and as a result ghtir influence was felt at ght highest level.",
+        "const_tree": "(S (S (PP Prudently) , (S (NP ghty) (VP had (VP diversified (PP into (NP banking) and (NP insurance)))))) , and (S (PP as (NP a result)) (S (NP ghtir influence) (VP was (VP felt (PP at (NP ght (ADJP highest) level)))))))",
+        "changed_pos": "DET",
+        "original_word": "the",
+        "new_word": "ght"
+    },
+    {
+        "sentence": "Prudently, they had diversified into banking and insurance, and as a result their influence was felt at the heist level.",
+        "const_tree": "(S (S (PP Prudently) , (S (NP they) (VP had (VP diversified (PP into (NP banking) and (NP insurance)))))) , and (S (PP as (NP a result)) (S (NP their influence) (VP was (VP felt (PP at (NP the (ADJP heist) level)))))))",
+        "changed_pos": "ADJ",
+        "original_word": "highest",
+        "new_word": "heist"
+    },
+    {
+        "sentence": "Prudently, they had diversified into banking and insurance, and as a result their influence was felt at the highes level.",
+        "const_tree": "(S (S (PP Prudently) , (S (NP they) (VP had (VP diversified (PP into (NP banking) and (NP insurance)))))) , and (S (PP as (NP a result)) (S (NP their influence) (VP was (VP felt (PP at (NP the (ADJP highes) level)))))))",
+        "changed_pos": "ADJ",
+        "original_word": "highest",
+        "new_word": "highes"
+    },
+    {
+        "sentence": "Prudently, they had diversified into banking and insurance, and as a result their influence was felt at the hightest level.",
+        "const_tree": "(S (S (PP Prudently) , (S (NP they) (VP had (VP diversified (PP into (NP banking) and (NP insurance)))))) , and (S (PP as (NP a result)) (S (NP their influence) (VP was (VP felt (PP at (NP the (ADJP hightest) level)))))))",
+        "changed_pos": "ADJ",
+        "original_word": "highest",
+        "new_word": "hightest"
+    },
+    {
+        "sentence": "Prudently, they had diversified into banking and insurance, and as a result their influence was felt at the highist level.",
+        "const_tree": "(S (S (PP Prudently) , (S (NP they) (VP had (VP diversified (PP into (NP banking) and (NP insurance)))))) , and (S (PP as (NP a result)) (S (NP their influence) (VP was (VP felt (PP at (NP the (ADJP highist) level)))))))",
+        "changed_pos": "ADJ",
+        "original_word": "highest",
+        "new_word": "highist"
+    },
+    {
+        "sentence": "Prudently, they had diversified into banking and insurance, and as a result their influence was felt at the highst level.",
+        "const_tree": "(S (S (PP Prudently) , (S (NP they) (VP had (VP diversified (PP into (NP banking) and (NP insurance)))))) , and (S (PP as (NP a result)) (S (NP their influence) (VP was (VP felt (PP at (NP the (ADJP highst) level)))))))",
+        "changed_pos": "ADJ",
+        "original_word": "highest",
+        "new_word": "highst"
+    },
+    {
+        "sentence": "Prudently, they had diversified into banking and insurance, and as a result their influence was felt at the highest lavel.",
+        "const_tree": "(S (S (PP Prudently) , (S (NP they) (VP had (VP diversified (PP into (NP banking) and (NP insurance)))))) , and (S (PP as (NP a result)) (S (NP their influence) (VP was (VP felt (PP at (NP the (ADJP highest) lavel)))))))",
+        "changed_pos": "NOUN",
+        "original_word": "level",
+        "new_word": "lavel"
+    },
+    {
+        "sentence": "Prudently, they had diversified into banking and insurance, and as a result their influence was felt at the highest leveal.",
+        "const_tree": "(S (S (PP Prudently) , (S (NP they) (VP had (VP diversified (PP into (NP banking) and (NP insurance)))))) , and (S (PP as (NP a result)) (S (NP their influence) (VP was (VP felt (PP at (NP the (ADJP highest) leveal)))))))",
+        "changed_pos": "NOUN",
+        "original_word": "level",
+        "new_word": "leveal"
+    },
+    {
+        "sentence": "Prudently, they had diversified into banking and insurance, and as a result their influence was felt at the highest leverl.",
+        "const_tree": "(S (S (PP Prudently) , (S (NP they) (VP had (VP diversified (PP into (NP banking) and (NP insurance)))))) , and (S (PP as (NP a result)) (S (NP their influence) (VP was (VP felt (PP at (NP the (ADJP highest) leverl)))))))",
+        "changed_pos": "NOUN",
+        "original_word": "level",
+        "new_word": "leverl"
+    },
+    {
+        "sentence": "Yhe arranged marriage would be the social event of the following year.",
+        "const_tree": "(S (NP Yhe arranged marriage) (VP would (VP be (NP (NP the social event) (PP of (NP the (ADJP following) year))))) .)",
+        "changed_pos": "DET",
+        "original_word": "The",
+        "new_word": "Yhe"
+    },
+    {
+        "sentence": "Tge arranged marriage would be the social event of the following year.",
+        "const_tree": "(S (NP Tge arranged marriage) (VP would (VP be (NP (NP the social event) (PP of (NP the (ADJP following) year))))) .)",
+        "changed_pos": "DET",
+        "original_word": "The",
+        "new_word": "Tge"
+    },
+    {
+        "sentence": "VThe arranged marriage would be the social event of the following year.",
+        "const_tree": "(S (NP VThe arranged marriage) (VP would (VP be (NP (NP the social event) (PP of (NP the (ADJP following) year))))) .)",
+        "changed_pos": "DET",
+        "original_word": "The",
+        "new_word": "VThe"
+    },
+    {
+        "sentence": "Thte arranged marriage would be the social event of the following year.",
+        "const_tree": "(S (NP Thte arranged marriage) (VP would (VP be (NP (NP the social event) (PP of (NP the (ADJP following) year))))) .)",
+        "changed_pos": "DET",
+        "original_word": "The",
+        "new_word": "Thte"
+    },
+    {
+        "sentence": "They arranged marriage would be the social event of the following year.",
+        "const_tree": "(S (NP They arranged marriage) (VP would (VP be (NP (NP the social event) (PP of (NP the (ADJP following) year))))) .)",
+        "changed_pos": "DET",
+        "original_word": "The",
+        "new_word": "They"
+    },
+    {
+        "sentence": "The erranged marriage would be the social event of the following year.",
+        "const_tree": "(S (NP The erranged marriage) (VP would (VP be (NP (NP the social event) (PP of (NP the (ADJP following) year))))) .)",
+        "changed_pos": "VERB",
+        "original_word": "arranged",
+        "new_word": "erranged"
+    },
+    {
+        "sentence": "The arrenged marriage would be the social event of the following year.",
+        "const_tree": "(S (NP The arrenged marriage) (VP would (VP be (NP (NP the social event) (PP of (NP the (ADJP following) year))))) .)",
+        "changed_pos": "VERB",
+        "original_word": "arranged",
+        "new_word": "arrenged"
+    },
+    {
+        "sentence": "The arranjed marriage would be the social event of the following year.",
+        "const_tree": "(S (NP The arranjed marriage) (VP would (VP be (NP (NP the social event) (PP of (NP the (ADJP following) year))))) .)",
+        "changed_pos": "VERB",
+        "original_word": "arranged",
+        "new_word": "arranjed"
+    },
+    {
+        "sentence": "The arranged mariage would be the social event of the following year.",
+        "const_tree": "(S (NP The arranged mariage) (VP would (VP be (NP (NP the social event) (PP of (NP the (ADJP following) year))))) .)",
+        "changed_pos": "NOUN",
+        "original_word": "marriage",
+        "new_word": "mariage"
+    },
+    {
+        "sentence": "The arranged marriege would be the social event of the following year.",
+        "const_tree": "(S (NP The arranged marriege) (VP would (VP be (NP (NP the social event) (PP of (NP the (ADJP following) year))))) .)",
+        "changed_pos": "NOUN",
+        "original_word": "marriage",
+        "new_word": "marriege"
+    },
+    {
+        "sentence": "The arranged marrige would be the social event of the following year.",
+        "const_tree": "(S (NP The arranged marrige) (VP would (VP be (NP (NP the social event) (PP of (NP the (ADJP following) year))))) .)",
+        "changed_pos": "NOUN",
+        "original_word": "marriage",
+        "new_word": "marrige"
+    },
+    {
+        "sentence": "The arranged marage would be the social event of the following year.",
+        "const_tree": "(S (NP The arranged marage) (VP would (VP be (NP (NP the social event) (PP of (NP the (ADJP following) year))))) .)",
+        "changed_pos": "NOUN",
+        "original_word": "marriage",
+        "new_word": "marage"
+    },
+    {
+        "sentence": "The arranged marriage woult be the social event of the following year.",
+        "const_tree": "(S (NP The arranged marriage) (VP woult (VP be (NP (NP the social event) (PP of (NP the (ADJP following) year))))) .)",
+        "changed_pos": "AUX",
+        "original_word": "would",
+        "new_word": "woult"
+    },
+    {
+        "sentence": "The arranged marriage di be the social event of the following year.",
+        "const_tree": "(S (NP The arranged marriage) (VP di (VP be (NP (NP the social event) (PP of (NP the (ADJP following) year))))) .)",
+        "changed_pos": "AUX",
+        "original_word": "would",
+        "new_word": "di"
+    },
+    {
+        "sentence": "The arranged marriage world be the social event of the following year.",
+        "const_tree": "(S (NP The arranged marriage) (VP world (VP be (NP (NP the social event) (PP of (NP the (ADJP following) year))))) .)",
+        "changed_pos": "AUX",
+        "original_word": "would",
+        "new_word": "world"
+    },
+    {
+        "sentence": "The arranged marriage whould be the social event of the following year.",
+        "const_tree": "(S (NP The arranged marriage) (VP whould (VP be (NP (NP the social event) (PP of (NP the (ADJP following) year))))) .)",
+        "changed_pos": "AUX",
+        "original_word": "would",
+        "new_word": "whould"
+    },
+    {
+        "sentence": "The arranged marriage would be the sozial event of the following year.",
+        "const_tree": "(S (NP The arranged marriage) (VP would (VP be (NP (NP the sozial event) (PP of (NP the (ADJP following) year))))) .)",
+        "changed_pos": "ADJ",
+        "original_word": "social",
+        "new_word": "sozial"
+    },
+    {
+        "sentence": "The arranged marriage would be the sociality event of the following year.",
+        "const_tree": "(S (NP The arranged marriage) (VP would (VP be (NP (NP the sociality event) (PP of (NP the (ADJP following) year))))) .)",
+        "changed_pos": "ADJ",
+        "original_word": "social",
+        "new_word": "sociality"
+    },
+    {
+        "sentence": "The arranged marriage would be the social evet of the following year.",
+        "const_tree": "(S (NP The arranged marriage) (VP would (VP be (NP (NP the social evet) (PP of (NP the (ADJP following) year))))) .)",
+        "changed_pos": "NOUN",
+        "original_word": "event",
+        "new_word": "evet"
+    },
+    {
+        "sentence": "The arranged marriage would be the social ivent of the following year.",
+        "const_tree": "(S (NP The arranged marriage) (VP would (VP be (NP (NP the social ivent) (PP of (NP the (ADJP following) year))))) .)",
+        "changed_pos": "NOUN",
+        "original_word": "event",
+        "new_word": "ivent"
+    },
+    {
+        "sentence": "The arranged marriage would be the social evenement of the following year.",
+        "const_tree": "(S (NP The arranged marriage) (VP would (VP be (NP (NP the social evenement) (PP of (NP the (ADJP following) year))))) .)",
+        "changed_pos": "NOUN",
+        "original_word": "event",
+        "new_word": "evenement"
+    },
+    {
+        "sentence": "The arranged marriage would be the social even of the following year.",
+        "const_tree": "(S (NP The arranged marriage) (VP would (VP be (NP (NP the social even) (PP of (NP the (ADJP following) year))))) .)",
+        "changed_pos": "NOUN",
+        "original_word": "event",
+        "new_word": "even"
+    },
+    {
+        "sentence": "The arranged marriage would be the social event of the folllowing year.",
+        "const_tree": "(S (NP The arranged marriage) (VP would (VP be (NP (NP the social event) (PP of (NP the (ADJP folllowing) year))))) .)",
+        "changed_pos": "ADJ",
+        "original_word": "following",
+        "new_word": "folllowing"
+    },
+    {
+        "sentence": "The arranged marriage would be the social event of the follwoing year.",
+        "const_tree": "(S (NP The arranged marriage) (VP would (VP be (NP (NP the social event) (PP of (NP the (ADJP follwoing) year))))) .)",
+        "changed_pos": "ADJ",
+        "original_word": "following",
+        "new_word": "follwoing"
+    },
+    {
+        "sentence": "The arranged marriage would be the social event of the follow year.",
+        "const_tree": "(S (NP The arranged marriage) (VP would (VP be (NP (NP the social event) (PP of (NP the (ADJP follow) year))))) .)",
+        "changed_pos": "ADJ",
+        "original_word": "following",
+        "new_word": "follow"
+    },
+    {
+        "sentence": "The arranged marriage would be the social event of the following yaer.",
+        "const_tree": "(S (NP The arranged marriage) (VP would (VP be (NP (NP the social event) (PP of (NP the (ADJP following) yaer))))) .)",
+        "changed_pos": "NOUN",
+        "original_word": "year",
+        "new_word": "yaer"
+    },
+    {
+        "sentence": "The arranged marriage would be the social event of the following yaers.",
+        "const_tree": "(S (NP The arranged marriage) (VP would (VP be (NP (NP the social event) (PP of (NP the (ADJP following) yaers))))) .)",
+        "changed_pos": "NOUN",
+        "original_word": "year",
+        "new_word": "yaers"
+    },
+    {
+        "sentence": "The arranged marriage would be the social event of the following yeas.",
+        "const_tree": "(S (NP The arranged marriage) (VP would (VP be (NP (NP the social event) (PP of (NP the (ADJP following) yeas))))) .)",
+        "changed_pos": "NOUN",
+        "original_word": "year",
+        "new_word": "yeas"
+    },
+    {
+        "sentence": "The arranged marriage would be the social event of the following yar.",
+        "const_tree": "(S (NP The arranged marriage) (VP would (VP be (NP (NP the social event) (PP of (NP the (ADJP following) yar))))) .)",
+        "changed_pos": "NOUN",
+        "original_word": "year",
+        "new_word": "yar"
+    },
+    {
+        "sentence": "The arranged marriage would be the social event of the following yeat.",
+        "const_tree": "(S (NP The arranged marriage) (VP would (VP be (NP (NP the social event) (PP of (NP the (ADJP following) yeat))))) .)",
+        "changed_pos": "NOUN",
+        "original_word": "year",
+        "new_word": "yeat"
+    },
+    {
+        "sentence": "Wenn at last she spoke, her words were heavy and disjointed.",
+        "const_tree": "(S (SBAR (WHADVP Wenn) at (S (PP last) (S (NP she) (VP spoke)))) , (S (NP her words) (VP were (ADJP (ADJP heavy) and (ADJP disjointed)))) .)",
+        "changed_pos": "SCONJ",
+        "original_word": "When",
+        "new_word": "Wenn"
+    },
+    {
+        "sentence": "Whren at last she spoke, her words were heavy and disjointed.",
+        "const_tree": "(S (SBAR (WHADVP Whren) at (S (PP last) (S (NP she) (VP spoke)))) , (S (NP her words) (VP were (ADJP (ADJP heavy) and (ADJP disjointed)))) .)",
+        "changed_pos": "SCONJ",
+        "original_word": "When",
+        "new_word": "Whren"
+    },
+    {
+        "sentence": "Whe at last she spoke, her words were heavy and disjointed.",
+        "const_tree": "(S (SBAR (WHADVP Whe) at (S (PP last) (S (NP she) (VP spoke)))) , (S (NP her words) (VP were (ADJP (ADJP heavy) and (ADJP disjointed)))) .)",
+        "changed_pos": "SCONJ",
+        "original_word": "When",
+        "new_word": "Whe"
+    },
+    {
+        "sentence": "Whem at last she spoke, her words were heavy and disjointed.",
+        "const_tree": "(S (SBAR (WHADVP Whem) at (S (PP last) (S (NP she) (VP spoke)))) , (S (NP her words) (VP were (ADJP (ADJP heavy) and (ADJP disjointed)))) .)",
+        "changed_pos": "SCONJ",
+        "original_word": "When",
+        "new_word": "Whem"
+    },
+    {
+        "sentence": "Whwen at last she spoke, her words were heavy and disjointed.",
+        "const_tree": "(S (SBAR (WHADVP Whwen) at (S (PP last) (S (NP she) (VP spoke)))) , (S (NP her words) (VP were (ADJP (ADJP heavy) and (ADJP disjointed)))) .)",
+        "changed_pos": "SCONJ",
+        "original_word": "When",
+        "new_word": "Whwen"
+    },
+    {
+        "sentence": "When at Iast she spoke, her words were heavy and disjointed.",
+        "const_tree": "(S (SBAR (WHADVP When) at (S (PP Iast) (S (NP she) (VP spoke)))) , (S (NP her words) (VP were (ADJP (ADJP heavy) and (ADJP disjointed)))) .)",
+        "changed_pos": "ADV",
+        "original_word": "last",
+        "new_word": "Iast"
+    },
+    {
+        "sentence": "When at lazy she spoke, her words were heavy and disjointed.",
+        "const_tree": "(S (SBAR (WHADVP When) at (S (PP lazy) (S (NP she) (VP spoke)))) , (S (NP her words) (VP were (ADJP (ADJP heavy) and (ADJP disjointed)))) .)",
+        "changed_pos": "ADV",
+        "original_word": "last",
+        "new_word": "lazy"
+    },
+    {
+        "sentence": "When at lasth she spoke, her words were heavy and disjointed.",
+        "const_tree": "(S (SBAR (WHADVP When) at (S (PP lasth) (S (NP she) (VP spoke)))) , (S (NP her words) (VP were (ADJP (ADJP heavy) and (ADJP disjointed)))) .)",
+        "changed_pos": "ADV",
+        "original_word": "last",
+        "new_word": "lasth"
+    },
+    {
+        "sentence": "When at lost she spoke, her words were heavy and disjointed.",
+        "const_tree": "(S (SBAR (WHADVP When) at (S (PP lost) (S (NP she) (VP spoke)))) , (S (NP her words) (VP were (ADJP (ADJP heavy) and (ADJP disjointed)))) .)",
+        "changed_pos": "ADV",
+        "original_word": "last",
+        "new_word": "lost"
+    },
+    {
+        "sentence": "When at last whe spoke, her words were heavy and disjointed.",
+        "const_tree": "(S (SBAR (WHADVP When) at (S (PP last) (S (NP whe) (VP spoke)))) , (S (NP her words) (VP were (ADJP (ADJP heavy) and (ADJP disjointed)))) .)",
+        "changed_pos": "PRON",
+        "original_word": "she",
+        "new_word": "whe"
+    },
+    {
+        "sentence": "When at last shie spoke, her words were heavy and disjointed.",
+        "const_tree": "(S (SBAR (WHADVP When) at (S (PP last) (S (NP shie) (VP spoke)))) , (S (NP her words) (VP were (ADJP (ADJP heavy) and (ADJP disjointed)))) .)",
+        "changed_pos": "PRON",
+        "original_word": "she",
+        "new_word": "shie"
+    },
+    {
+        "sentence": "When at last seh spoke, her words were heavy and disjointed.",
+        "const_tree": "(S (SBAR (WHADVP When) at (S (PP last) (S (NP seh) (VP spoke)))) , (S (NP her words) (VP were (ADJP (ADJP heavy) and (ADJP disjointed)))) .)",
+        "changed_pos": "PRON",
+        "original_word": "she",
+        "new_word": "seh"
+    },
+    {
+        "sentence": "When at last se spoke, her words were heavy and disjointed.",
+        "const_tree": "(S (SBAR (WHADVP When) at (S (PP last) (S (NP se) (VP spoke)))) , (S (NP her words) (VP were (ADJP (ADJP heavy) and (ADJP disjointed)))) .)",
+        "changed_pos": "PRON",
+        "original_word": "she",
+        "new_word": "se"
+    },
+    {
+        "sentence": "When at last Shi spoke, her words were heavy and disjointed.",
+        "const_tree": "(S (SBAR (WHADVP When) at (S (PP last) (S (NP Shi) (VP spoke)))) , (S (NP her words) (VP were (ADJP (ADJP heavy) and (ADJP disjointed)))) .)",
+        "changed_pos": "PRON",
+        "original_word": "she",
+        "new_word": "Shi"
+    },
+    {
+        "sentence": "When at last she spoked, her words were heavy and disjointed.",
+        "const_tree": "(S (SBAR (WHADVP When) at (S (PP last) (S (NP she) (VP spoked)))) , (S (NP her words) (VP were (ADJP (ADJP heavy) and (ADJP disjointed)))) .)",
+        "changed_pos": "VERB",
+        "original_word": "spoke",
+        "new_word": "spoked"
+    },
+    {
+        "sentence": "When at last she spoke, ho words were heavy and disjointed.",
+        "const_tree": "(S (SBAR (WHADVP When) at (S (PP last) (S (NP she) (VP spoke)))) , (S (NP ho words) (VP were (ADJP (ADJP heavy) and (ADJP disjointed)))) .)",
+        "changed_pos": "PRON",
+        "original_word": "her",
+        "new_word": "ho"
+    },
+    {
+        "sentence": "When at last she spoke, hers words were heavy and disjointed.",
+        "const_tree": "(S (SBAR (WHADVP When) at (S (PP last) (S (NP she) (VP spoke)))) , (S (NP hers words) (VP were (ADJP (ADJP heavy) and (ADJP disjointed)))) .)",
+        "changed_pos": "PRON",
+        "original_word": "her",
+        "new_word": "hers"
+    },
+    {
+        "sentence": "When at last she spoke, hef words were heavy and disjointed.",
+        "const_tree": "(S (SBAR (WHADVP When) at (S (PP last) (S (NP she) (VP spoke)))) , (S (NP hef words) (VP were (ADJP (ADJP heavy) and (ADJP disjointed)))) .)",
+        "changed_pos": "PRON",
+        "original_word": "her",
+        "new_word": "hef"
+    },
+    {
+        "sentence": "When at last she spoke, her qwords were heavy and disjointed.",
+        "const_tree": "(S (SBAR (WHADVP When) at (S (PP last) (S (NP she) (VP spoke)))) , (S (NP her qwords) (VP were (ADJP (ADJP heavy) and (ADJP disjointed)))) .)",
+        "changed_pos": "NOUN",
+        "original_word": "words",
+        "new_word": "qwords"
+    },
+    {
+        "sentence": "When at last she spoke, her worlds were heavy and disjointed.",
+        "const_tree": "(S (SBAR (WHADVP When) at (S (PP last) (S (NP she) (VP spoke)))) , (S (NP her worlds) (VP were (ADJP (ADJP heavy) and (ADJP disjointed)))) .)",
+        "changed_pos": "NOUN",
+        "original_word": "words",
+        "new_word": "worlds"
+    },
+    {
+        "sentence": "When at last she spoke, her works were heavy and disjointed.",
+        "const_tree": "(S (SBAR (WHADVP When) at (S (PP last) (S (NP she) (VP spoke)))) , (S (NP her works) (VP were (ADJP (ADJP heavy) and (ADJP disjointed)))) .)",
+        "changed_pos": "NOUN",
+        "original_word": "words",
+        "new_word": "works"
+    },
+    {
+        "sentence": "When at last she spoke, her words werw heavy and disjointed.",
+        "const_tree": "(S (SBAR (WHADVP When) at (S (PP last) (S (NP she) (VP spoke)))) , (S (NP her words) (VP werw (ADJP (ADJP heavy) and (ADJP disjointed)))) .)",
+        "changed_pos": "AUX",
+        "original_word": "were",
+        "new_word": "werw"
+    },
+    {
+        "sentence": "When at last she spoke, her words we're heavy and disjointed.",
+        "const_tree": "(S (SBAR (WHADVP When) at (S (PP last) (S (NP she) (VP spoke)))) , (S (NP her words) (VP we're (ADJP (ADJP heavy) and (ADJP disjointed)))) .)",
+        "changed_pos": "AUX",
+        "original_word": "were",
+        "new_word": "we're"
+    },
+    {
+        "sentence": "When at last she spoke, her words wer heavy and disjointed.",
+        "const_tree": "(S (SBAR (WHADVP When) at (S (PP last) (S (NP she) (VP spoke)))) , (S (NP her words) (VP wer (ADJP (ADJP heavy) and (ADJP disjointed)))) .)",
+        "changed_pos": "AUX",
+        "original_word": "were",
+        "new_word": "wer"
+    },
+    {
+        "sentence": "When at last she spoke, her words vere heavy and disjointed.",
+        "const_tree": "(S (SBAR (WHADVP When) at (S (PP last) (S (NP she) (VP spoke)))) , (S (NP her words) (VP vere (ADJP (ADJP heavy) and (ADJP disjointed)))) .)",
+        "changed_pos": "AUX",
+        "original_word": "were",
+        "new_word": "vere"
+    },
+    {
+        "sentence": "When at last she spoke, her words was heavy and disjointed.",
+        "const_tree": "(S (SBAR (WHADVP When) at (S (PP last) (S (NP she) (VP spoke)))) , (S (NP her words) (VP was (ADJP (ADJP heavy) and (ADJP disjointed)))) .)",
+        "changed_pos": "AUX",
+        "original_word": "were",
+        "new_word": "was"
+    },
+    {
+        "sentence": "When at last she spoke, her words were heary and disjointed.",
+        "const_tree": "(S (SBAR (WHADVP When) at (S (PP last) (S (NP she) (VP spoke)))) , (S (NP her words) (VP were (ADJP (ADJP heary) and (ADJP disjointed)))) .)",
+        "changed_pos": "ADJ",
+        "original_word": "heavy",
+        "new_word": "heary"
+    },
+    {
+        "sentence": "When at last she spoke, her words were heave and disjointed.",
+        "const_tree": "(S (SBAR (WHADVP When) at (S (PP last) (S (NP she) (VP spoke)))) , (S (NP her words) (VP were (ADJP (ADJP heave) and (ADJP disjointed)))) .)",
+        "changed_pos": "ADJ",
+        "original_word": "heavy",
+        "new_word": "heave"
+    },
+    {
+        "sentence": "When at last she spoke, her words were reavy and disjointed.",
+        "const_tree": "(S (SBAR (WHADVP When) at (S (PP last) (S (NP she) (VP spoke)))) , (S (NP her words) (VP were (ADJP (ADJP reavy) and (ADJP disjointed)))) .)",
+        "changed_pos": "ADJ",
+        "original_word": "heavy",
+        "new_word": "reavy"
+    },
+    {
+        "sentence": "When at last she spoke, her words were heavy um disjointed.",
+        "const_tree": "(S (SBAR (WHADVP When) at (S (PP last) (S (NP she) (VP spoke)))) , (S (NP her words) (VP were (ADJP (ADJP heavy) um (ADJP disjointed)))) .)",
+        "changed_pos": "CCONJ",
+        "original_word": "and",
+        "new_word": "um"
+    },
+    {
+        "sentence": "When at last she spoke, her words were heavy amd disjointed.",
+        "const_tree": "(S (SBAR (WHADVP When) at (S (PP last) (S (NP she) (VP spoke)))) , (S (NP her words) (VP were (ADJP (ADJP heavy) amd (ADJP disjointed)))) .)",
+        "changed_pos": "CCONJ",
+        "original_word": "and",
+        "new_word": "amd"
+    },
+    {
+        "sentence": "When at last she spoke, her words were heavy & disjointed.",
+        "const_tree": "(S (SBAR (WHADVP When) at (S (PP last) (S (NP she) (VP spoke)))) , (S (NP her words) (VP were (ADJP (ADJP heavy) & (ADJP disjointed)))) .)",
+        "changed_pos": "CCONJ",
+        "original_word": "and",
+        "new_word": "&"
+    },
+    {
+        "sentence": "When at last she spoke, her words were heavy ansd disjointed.",
+        "const_tree": "(S (SBAR (WHADVP When) at (S (PP last) (S (NP she) (VP spoke)))) , (S (NP her words) (VP were (ADJP (ADJP heavy) ansd (ADJP disjointed)))) .)",
+        "changed_pos": "CCONJ",
+        "original_word": "and",
+        "new_word": "ansd"
+    },
+    {
+        "sentence": "When at last she spoke, her words were heavy ou disjointed.",
+        "const_tree": "(S (SBAR (WHADVP When) at (S (PP last) (S (NP she) (VP spoke)))) , (S (NP her words) (VP were (ADJP (ADJP heavy) ou (ADJP disjointed)))) .)",
+        "changed_pos": "CCONJ",
+        "original_word": "and",
+        "new_word": "ou"
+    },
+    {
+        "sentence": "When at last she spoke, her words were heavy and disjointed.",
+        "const_tree": "(S (SBAR (WHADVP When) at (S (PP last) (S (NP she) (VP spoke)))) , (S (NP her words) (VP were (ADJP (ADJP heavy) and (ADJP disjointed)))) .)",
+        "changed_pos": "ADJ",
+        "original_word": "disjointed",
+        "new_word": "disjointed"
+    },
+    {
+        "sentence": "Tha road to the coast was busy with traffic in both directions.",
+        "const_tree": "(S (NP (NP Tha road) (PP to (NP the coast))) (VP was (ADJP busy (PP with (NP traffic)) (PP in (NP both directions)))) .)",
+        "changed_pos": "DET",
+        "original_word": "The",
+        "new_word": "Tha"
+    },
+    {
+        "sentence": "Trhe road to the coast was busy with traffic in both directions.",
+        "const_tree": "(S (NP (NP Trhe road) (PP to (NP the coast))) (VP was (ADJP busy (PP with (NP traffic)) (PP in (NP both directions)))) .)",
+        "changed_pos": "DET",
+        "original_word": "The",
+        "new_word": "Trhe"
+    },
+    {
+        "sentence": "He road to the coast was busy with traffic in both directions.",
+        "const_tree": "(S (NP (NP He road) (PP to (NP the coast))) (VP was (ADJP busy (PP with (NP traffic)) (PP in (NP both directions)))) .)",
+        "changed_pos": "DET",
+        "original_word": "The",
+        "new_word": "He"
+    },
+    {
+        "sentence": "They road to the coast was busy with traffic in both directions.",
+        "const_tree": "(S (NP (NP They road) (PP to (NP the coast))) (VP was (ADJP busy (PP with (NP traffic)) (PP in (NP both directions)))) .)",
+        "changed_pos": "DET",
+        "original_word": "The",
+        "new_word": "They"
+    },
+    {
+        "sentence": "The roud to the coast was busy with traffic in both directions.",
+        "const_tree": "(S (NP (NP The roud) (PP to (NP the coast))) (VP was (ADJP busy (PP with (NP traffic)) (PP in (NP both directions)))) .)",
+        "changed_pos": "NOUN",
+        "original_word": "road",
+        "new_word": "roud"
+    },
+    {
+        "sentence": "The rood to the coast was busy with traffic in both directions.",
+        "const_tree": "(S (NP (NP The rood) (PP to (NP the coast))) (VP was (ADJP busy (PP with (NP traffic)) (PP in (NP both directions)))) .)",
+        "changed_pos": "NOUN",
+        "original_word": "road",
+        "new_word": "rood"
+    },
+    {
+        "sentence": "The roade to the coast was busy with traffic in both directions.",
+        "const_tree": "(S (NP (NP The roade) (PP to (NP the coast))) (VP was (ADJP busy (PP with (NP traffic)) (PP in (NP both directions)))) .)",
+        "changed_pos": "NOUN",
+        "original_word": "road",
+        "new_word": "roade"
+    },
+    {
+        "sentence": "The Rd to the coast was busy with traffic in both directions.",
+        "const_tree": "(S (NP (NP The Rd) (PP to (NP the coast))) (VP was (ADJP busy (PP with (NP traffic)) (PP in (NP both directions)))) .)",
+        "changed_pos": "NOUN",
+        "original_word": "road",
+        "new_word": "Rd"
+    },
+    {
+        "sentence": "The road to th coast was busy with traffic in both directions.",
+        "const_tree": "(S (NP (NP The road) (PP to (NP th coast))) (VP was (ADJP busy (PP with (NP traffic)) (PP in (NP both directions)))) .)",
+        "changed_pos": "DET",
+        "original_word": "the",
+        "new_word": "th"
+    },
+    {
+        "sentence": "The road to they coast was busy with traffic in both directions.",
+        "const_tree": "(S (NP (NP The road) (PP to (NP they coast))) (VP was (ADJP busy (PP with (NP traffic)) (PP in (NP both directions)))) .)",
+        "changed_pos": "DET",
+        "original_word": "the",
+        "new_word": "they"
+    },
+    {
+        "sentence": "The road to ht coast was busy with traffic in both directions.",
+        "const_tree": "(S (NP (NP The road) (PP to (NP ht coast))) (VP was (ADJP busy (PP with (NP traffic)) (PP in (NP both directions)))) .)",
+        "changed_pos": "DET",
+        "original_word": "the",
+        "new_word": "ht"
+    },
+    {
+        "sentence": "The road to thr coast was busy with traffic in both directions.",
+        "const_tree": "(S (NP (NP The road) (PP to (NP thr coast))) (VP was (ADJP busy (PP with (NP traffic)) (PP in (NP both directions)))) .)",
+        "changed_pos": "DET",
+        "original_word": "the",
+        "new_word": "thr"
+    },
+    {
+        "sentence": "The road to thw coast was busy with traffic in both directions.",
+        "const_tree": "(S (NP (NP The road) (PP to (NP thw coast))) (VP was (ADJP busy (PP with (NP traffic)) (PP in (NP both directions)))) .)",
+        "changed_pos": "DET",
+        "original_word": "the",
+        "new_word": "thw"
+    },
+    {
+        "sentence": "The road to the cost was busy with traffic in both directions.",
+        "const_tree": "(S (NP (NP The road) (PP to (NP the cost))) (VP was (ADJP busy (PP with (NP traffic)) (PP in (NP both directions)))) .)",
+        "changed_pos": "NOUN",
+        "original_word": "coast",
+        "new_word": "cost"
+    },
+    {
+        "sentence": "The road to the coats was busy with traffic in both directions.",
+        "const_tree": "(S (NP (NP The road) (PP to (NP the coats))) (VP was (ADJP busy (PP with (NP traffic)) (PP in (NP both directions)))) .)",
+        "changed_pos": "NOUN",
+        "original_word": "coast",
+        "new_word": "coats"
+    },
+    {
+        "sentence": "The road to the coat was busy with traffic in both directions.",
+        "const_tree": "(S (NP (NP The road) (PP to (NP the coat))) (VP was (ADJP busy (PP with (NP traffic)) (PP in (NP both directions)))) .)",
+        "changed_pos": "NOUN",
+        "original_word": "coast",
+        "new_word": "coat"
+    },
+    {
+        "sentence": "The road to the coast wass busy with traffic in both directions.",
+        "const_tree": "(S (NP (NP The road) (PP to (NP the coast))) (VP wass (ADJP busy (PP with (NP traffic)) (PP in (NP both directions)))) .)",
+        "changed_pos": "AUX",
+        "original_word": "was",
+        "new_word": "wass"
+    },
+    {
+        "sentence": "The road to the coast sas busy with traffic in both directions.",
+        "const_tree": "(S (NP (NP The road) (PP to (NP the coast))) (VP sas (ADJP busy (PP with (NP traffic)) (PP in (NP both directions)))) .)",
+        "changed_pos": "AUX",
+        "original_word": "was",
+        "new_word": "sas"
+    },
+    {
+        "sentence": "The road to the coast it's busy with traffic in both directions.",
+        "const_tree": "(S (NP (NP The road) (PP to (NP the coast))) (VP it's (ADJP busy (PP with (NP traffic)) (PP in (NP both directions)))) .)",
+        "changed_pos": "AUX",
+        "original_word": "was",
+        "new_word": "it's"
+    },
+    {
+        "sentence": "The road to the coast ware busy with traffic in both directions.",
+        "const_tree": "(S (NP (NP The road) (PP to (NP the coast))) (VP ware (ADJP busy (PP with (NP traffic)) (PP in (NP both directions)))) .)",
+        "changed_pos": "AUX",
+        "original_word": "was",
+        "new_word": "ware"
+    },
+    {
+        "sentence": "The road to the coast was busying with traffic in both directions.",
+        "const_tree": "(S (NP (NP The road) (PP to (NP the coast))) (VP was (ADJP busying (PP with (NP traffic)) (PP in (NP both directions)))) .)",
+        "changed_pos": "ADJ",
+        "original_word": "busy",
+        "new_word": "busying"
+    },
+    {
+        "sentence": "The road to the coast was buy with traffic in both directions.",
+        "const_tree": "(S (NP (NP The road) (PP to (NP the coast))) (VP was (ADJP buy (PP with (NP traffic)) (PP in (NP both directions)))) .)",
+        "changed_pos": "ADJ",
+        "original_word": "busy",
+        "new_word": "buy"
+    },
+    {
+        "sentence": "The road to the coast was besy with traffic in both directions.",
+        "const_tree": "(S (NP (NP The road) (PP to (NP the coast))) (VP was (ADJP besy (PP with (NP traffic)) (PP in (NP both directions)))) .)",
+        "changed_pos": "ADJ",
+        "original_word": "busy",
+        "new_word": "besy"
+    },
+    {
+        "sentence": "The road to the coast was bussy with traffic in both directions.",
+        "const_tree": "(S (NP (NP The road) (PP to (NP the coast))) (VP was (ADJP bussy (PP with (NP traffic)) (PP in (NP both directions)))) .)",
+        "changed_pos": "ADJ",
+        "original_word": "busy",
+        "new_word": "bussy"
+    },
+    {
+        "sentence": "The road to the coast was BUSI with traffic in both directions.",
+        "const_tree": "(S (NP (NP The road) (PP to (NP the coast))) (VP was (ADJP BUSI (PP with (NP traffic)) (PP in (NP both directions)))) .)",
+        "changed_pos": "ADJ",
+        "original_word": "busy",
+        "new_word": "BUSI"
+    },
+    {
+        "sentence": "The road to the coast was busy wkth traffic in both directions.",
+        "const_tree": "(S (NP (NP The road) (PP to (NP the coast))) (VP was (ADJP busy (PP wkth (NP traffic)) (PP in (NP both directions)))) .)",
+        "changed_pos": "ADP",
+        "original_word": "with",
+        "new_word": "wkth"
+    },
+    {
+        "sentence": "The road to the coast was busy wich traffic in both directions.",
+        "const_tree": "(S (NP (NP The road) (PP to (NP the coast))) (VP was (ADJP busy (PP wich (NP traffic)) (PP in (NP both directions)))) .)",
+        "changed_pos": "ADP",
+        "original_word": "with",
+        "new_word": "wich"
+    },
+    {
+        "sentence": "The road to the coast was busy whi traffic in both directions.",
+        "const_tree": "(S (NP (NP The road) (PP to (NP the coast))) (VP was (ADJP busy (PP whi (NP traffic)) (PP in (NP both directions)))) .)",
+        "changed_pos": "ADP",
+        "original_word": "with",
+        "new_word": "whi"
+    },
+    {
+        "sentence": "The road to the coast was busy wth traffic in both directions.",
+        "const_tree": "(S (NP (NP The road) (PP to (NP the coast))) (VP was (ADJP busy (PP wth (NP traffic)) (PP in (NP both directions)))) .)",
+        "changed_pos": "ADP",
+        "original_word": "with",
+        "new_word": "wth"
+    },
+    {
+        "sentence": "The road to the coast was busy wist traffic in both directions.",
+        "const_tree": "(S (NP (NP The road) (PP to (NP the coast))) (VP was (ADJP busy (PP wist (NP traffic)) (PP in (NP both directions)))) .)",
+        "changed_pos": "ADP",
+        "original_word": "with",
+        "new_word": "wist"
+    },
+    {
+        "sentence": "The road to the coast was busy with traffi in both directions.",
+        "const_tree": "(S (NP (NP The road) (PP to (NP the coast))) (VP was (ADJP busy (PP with (NP traffi)) (PP in (NP both directions)))) .)",
+        "changed_pos": "NOUN",
+        "original_word": "traffic",
+        "new_word": "traffi"
+    },
+    {
+        "sentence": "The road to the coast was busy with traffic in doth directions.",
+        "const_tree": "(S (NP (NP The road) (PP to (NP the coast))) (VP was (ADJP busy (PP with (NP traffic)) (PP in (NP doth directions)))) .)",
+        "changed_pos": "DET",
+        "original_word": "both",
+        "new_word": "doth"
+    },
+    {
+        "sentence": "The road to the coast was busy with traffic in broth directions.",
+        "const_tree": "(S (NP (NP The road) (PP to (NP the coast))) (VP was (ADJP busy (PP with (NP traffic)) (PP in (NP broth directions)))) .)",
+        "changed_pos": "DET",
+        "original_word": "both",
+        "new_word": "broth"
+    },
+    {
+        "sentence": "The road to the coast was busy with traffic in bosh directions.",
+        "const_tree": "(S (NP (NP The road) (PP to (NP the coast))) (VP was (ADJP busy (PP with (NP traffic)) (PP in (NP bosh directions)))) .)",
+        "changed_pos": "DET",
+        "original_word": "both",
+        "new_word": "bosh"
+    },
+    {
+        "sentence": "The road to the coast was busy with traffic in borth directions.",
+        "const_tree": "(S (NP (NP The road) (PP to (NP the coast))) (VP was (ADJP busy (PP with (NP traffic)) (PP in (NP borth directions)))) .)",
+        "changed_pos": "DET",
+        "original_word": "both",
+        "new_word": "borth"
+    },
+    {
+        "sentence": "The road to the coast was busy with traffic in bot directions.",
+        "const_tree": "(S (NP (NP The road) (PP to (NP the coast))) (VP was (ADJP busy (PP with (NP traffic)) (PP in (NP bot directions)))) .)",
+        "changed_pos": "DET",
+        "original_word": "both",
+        "new_word": "bot"
+    },
+    {
+        "sentence": "The road to the coast was busy with traffic in both directoins.",
+        "const_tree": "(S (NP (NP The road) (PP to (NP the coast))) (VP was (ADJP busy (PP with (NP traffic)) (PP in (NP both directoins)))) .)",
+        "changed_pos": "NOUN",
+        "original_word": "directions",
+        "new_word": "directoins"
+    },
+    {
+        "sentence": "The road to the coast was busy with traffic in both direction.",
+        "const_tree": "(S (NP (NP The road) (PP to (NP the coast))) (VP was (ADJP busy (PP with (NP traffic)) (PP in (NP both direction)))) .)",
+        "changed_pos": "NOUN",
+        "original_word": "directions",
+        "new_word": "direction"
+    },
+    {
+        "sentence": "The road to the coast was busy with traffic in both dirrrections.",
+        "const_tree": "(S (NP (NP The road) (PP to (NP the coast))) (VP was (ADJP busy (PP with (NP traffic)) (PP in (NP both dirrrections)))) .)",
+        "changed_pos": "NOUN",
+        "original_word": "directions",
+        "new_word": "dirrrections"
+    },
+    {
+        "sentence": "Yhe expected date came and went.",
+        "const_tree": "(S (NP Yhe expected date) (VP (VP came) and (VP went)) .)",
+        "changed_pos": "DET",
+        "original_word": "The",
+        "new_word": "Yhe"
+    },
+    {
+        "sentence": "Tge expected date came and went.",
+        "const_tree": "(S (NP Tge expected date) (VP (VP came) and (VP went)) .)",
+        "changed_pos": "DET",
+        "original_word": "The",
+        "new_word": "Tge"
+    },
+    {
+        "sentence": "Tha expected date came and went.",
+        "const_tree": "(S (NP Tha expected date) (VP (VP came) and (VP went)) .)",
+        "changed_pos": "DET",
+        "original_word": "The",
+        "new_word": "Tha"
+    },
+    {
+        "sentence": "VThe expected date came and went.",
+        "const_tree": "(S (NP VThe expected date) (VP (VP came) and (VP went)) .)",
+        "changed_pos": "DET",
+        "original_word": "The",
+        "new_word": "VThe"
+    },
+    {
+        "sentence": "He expected date came and went.",
+        "const_tree": "(S (NP He expected date) (VP (VP came) and (VP went)) .)",
+        "changed_pos": "DET",
+        "original_word": "The",
+        "new_word": "He"
+    },
+    {
+        "sentence": "The espected date came and went.",
+        "const_tree": "(S (NP The espected date) (VP (VP came) and (VP went)) .)",
+        "changed_pos": "ADJ",
+        "original_word": "expected",
+        "new_word": "espected"
+    },
+    {
+        "sentence": "The expectted date came and went.",
+        "const_tree": "(S (NP The expectted date) (VP (VP came) and (VP went)) .)",
+        "changed_pos": "ADJ",
+        "original_word": "expected",
+        "new_word": "expectted"
+    },
+    {
+        "sentence": "The expecto date came and went.",
+        "const_tree": "(S (NP The expecto date) (VP (VP came) and (VP went)) .)",
+        "changed_pos": "ADJ",
+        "original_word": "expected",
+        "new_word": "expecto"
+    },
+    {
+        "sentence": "The expected dat came and went.",
+        "const_tree": "(S (NP The expected dat) (VP (VP came) and (VP went)) .)",
+        "changed_pos": "NOUN",
+        "original_word": "date",
+        "new_word": "dat"
+    },
+    {
+        "sentence": "The expected adate came and went.",
+        "const_tree": "(S (NP The expected adate) (VP (VP came) and (VP went)) .)",
+        "changed_pos": "NOUN",
+        "original_word": "date",
+        "new_word": "adate"
+    },
+    {
+        "sentence": "The expected data came and went.",
+        "const_tree": "(S (NP The expected data) (VP (VP came) and (VP went)) .)",
+        "changed_pos": "NOUN",
+        "original_word": "date",
+        "new_word": "data"
+    },
+    {
+        "sentence": "The expected date come and went.",
+        "const_tree": "(S (NP The expected date) (VP (VP come) and (VP went)) .)",
+        "changed_pos": "VERB",
+        "original_word": "came",
+        "new_word": "come"
+    },
+    {
+        "sentence": "The expected date coem and went.",
+        "const_tree": "(S (NP The expected date) (VP (VP coem) and (VP went)) .)",
+        "changed_pos": "VERB",
+        "original_word": "came",
+        "new_word": "coem"
+    },
+    {
+        "sentence": "The expected date cam and went.",
+        "const_tree": "(S (NP The expected date) (VP (VP cam) and (VP went)) .)",
+        "changed_pos": "VERB",
+        "original_word": "came",
+        "new_word": "cam"
+    },
+    {
+        "sentence": "The expected date cae and went.",
+        "const_tree": "(S (NP The expected date) (VP (VP cae) and (VP went)) .)",
+        "changed_pos": "VERB",
+        "original_word": "came",
+        "new_word": "cae"
+    },
+    {
+        "sentence": "The expected date came et went.",
+        "const_tree": "(S (NP The expected date) (VP (VP came) et (VP went)) .)",
+        "changed_pos": "CCONJ",
+        "original_word": "and",
+        "new_word": "et"
+    },
+    {
+        "sentence": "The expected date came andave went.",
+        "const_tree": "(S (NP The expected date) (VP (VP came) andave (VP went)) .)",
+        "changed_pos": "CCONJ",
+        "original_word": "and",
+        "new_word": "andave"
+    },
+    {
+        "sentence": "The expected date came at went.",
+        "const_tree": "(S (NP The expected date) (VP (VP came) at (VP went)) .)",
+        "changed_pos": "CCONJ",
+        "original_word": "and",
+        "new_word": "at"
+    },
+    {
+        "sentence": "The expected date came Ande went.",
+        "const_tree": "(S (NP The expected date) (VP (VP came) Ande (VP went)) .)",
+        "changed_pos": "CCONJ",
+        "original_word": "and",
+        "new_word": "Ande"
+    },
+    {
+        "sentence": "The expected date came as went.",
+        "const_tree": "(S (NP The expected date) (VP (VP came) as (VP went)) .)",
+        "changed_pos": "CCONJ",
+        "original_word": "and",
+        "new_word": "as"
+    },
+    {
+        "sentence": "The expected date came and wen.",
+        "const_tree": "(S (NP The expected date) (VP (VP came) and (VP wen)) .)",
+        "changed_pos": "VERB",
+        "original_word": "went",
+        "new_word": "wen"
+    },
+    {
+        "sentence": "The expected date came and wend.",
+        "const_tree": "(S (NP The expected date) (VP (VP came) and (VP wend)) .)",
+        "changed_pos": "VERB",
+        "original_word": "went",
+        "new_word": "wend"
+    },
+    {
+        "sentence": "The expected date came and wento.",
+        "const_tree": "(S (NP The expected date) (VP (VP came) and (VP wento)) .)",
+        "changed_pos": "VERB",
+        "original_word": "went",
+        "new_word": "wento"
+    },
+    {
+        "sentence": "The expected date came and vent.",
+        "const_tree": "(S (NP The expected date) (VP (VP came) and (VP vent)) .)",
+        "changed_pos": "VERB",
+        "original_word": "went",
+        "new_word": "vent"
+    },
+    {
+        "sentence": "Sha sighed at the irony of it all, the waste of it all.",
+        "const_tree": "(S (NP Sha) (VP sighed (PP at (NP (NP (NP the irony) (PP of (NP it all))) , (NP (NP the waste) (PP of (NP it all)) .)))))",
+        "changed_pos": "PRON",
+        "original_word": "She",
+        "new_word": "Sha"
+    },
+    {
+        "sentence": "She's sighed at the irony of it all, the waste of it all.",
+        "const_tree": "(S (NP She's) (VP sighed (PP at (NP (NP (NP the irony) (PP of (NP it all))) , (NP (NP the waste) (PP of (NP it all)) .)))))",
+        "changed_pos": "PRON",
+        "original_word": "She",
+        "new_word": "She's"
+    },
+    {
+        "sentence": "SHe sighed at the irony of it all, the waste of it all.",
+        "const_tree": "(S (NP SHe) (VP sighed (PP at (NP (NP (NP the irony) (PP of (NP it all))) , (NP (NP the waste) (PP of (NP it all)) .)))))",
+        "changed_pos": "PRON",
+        "original_word": "She",
+        "new_word": "SHe"
+    },
+    {
+        "sentence": "Shi sighed at the irony of it all, the waste of it all.",
+        "const_tree": "(S (NP Shi) (VP sighed (PP at (NP (NP (NP the irony) (PP of (NP it all))) , (NP (NP the waste) (PP of (NP it all)) .)))))",
+        "changed_pos": "PRON",
+        "original_word": "She",
+        "new_word": "Shi"
+    },
+    {
+        "sentence": "She sighed at the irony of it all, the waste of it all.",
+        "const_tree": "(S (NP She) (VP sighed (PP at (NP (NP (NP the irony) (PP of (NP it all))) , (NP (NP the waste) (PP of (NP it all)) .)))))",
+        "changed_pos": "VERB",
+        "original_word": "sighed",
+        "new_word": "sighed"
+    },
+    {
+        "sentence": "She sighed at the irony of it all, the waste of it all.",
+        "const_tree": "(S (NP She) (VP sighed (PP at (NP (NP (NP the irony) (PP of (NP it all))) , (NP (NP the waste) (PP of (NP it all)) .)))))",
+        "changed_pos": "NOUN",
+        "original_word": "irony",
+        "new_word": "irony"
+    },
+    {
+        "sentence": "She sighed at the irony of it all, the waset of it all.",
+        "const_tree": "(S (NP She) (VP sighed (PP at (NP (NP (NP the irony) (PP of (NP it all))) , (NP (NP the waset) (PP of (NP it all)) .)))))",
+        "changed_pos": "NOUN",
+        "original_word": "waste",
+        "new_word": "waset"
+    },
+    {
+        "sentence": "She sighed at the irony of it all, the waiste of it all.",
+        "const_tree": "(S (NP She) (VP sighed (PP at (NP (NP (NP the irony) (PP of (NP it all))) , (NP (NP the waiste) (PP of (NP it all)) .)))))",
+        "changed_pos": "NOUN",
+        "original_word": "waste",
+        "new_word": "waiste"
+    },
+    {
+        "sentence": "She sighed at the irony of it all, the watste of it all.",
+        "const_tree": "(S (NP She) (VP sighed (PP at (NP (NP (NP the irony) (PP of (NP it all))) , (NP (NP the watste) (PP of (NP it all)) .)))))",
+        "changed_pos": "NOUN",
+        "original_word": "waste",
+        "new_word": "watste"
+    },
+    {
+        "sentence": "She sighed at the irony of it all, the waist of it all.",
+        "const_tree": "(S (NP She) (VP sighed (PP at (NP (NP (NP the irony) (PP of (NP it all))) , (NP (NP the waist) (PP of (NP it all)) .)))))",
+        "changed_pos": "NOUN",
+        "original_word": "waste",
+        "new_word": "waist"
+    },
+    {
+        "sentence": "Alle through August the rain hardly stopped.",
+        "const_tree": "(S (NP (NP Alle) (PP through August (NP the rain))) (VP (ADVP hardly) stopped) .)",
+        "changed_pos": "ADV",
+        "original_word": "All",
+        "new_word": "Alle"
+    },
+    {
+        "sentence": "All through August the rain hardly stopped.",
+        "const_tree": "(S (NP (NP All) (PP through August (NP the rain))) (VP (ADVP hardly) stopped) .)",
+        "changed_pos": "ADV",
+        "original_word": "All",
+        "new_word": "All"
+    },
+    {
+        "sentence": "Alll through August the rain hardly stopped.",
+        "const_tree": "(S (NP (NP Alll) (PP through August (NP the rain))) (VP (ADVP hardly) stopped) .)",
+        "changed_pos": "ADV",
+        "original_word": "All",
+        "new_word": "Alll"
+    },
+    {
+        "sentence": "All throgh August the rain hardly stopped.",
+        "const_tree": "(S (NP (NP All) (PP throgh August (NP the rain))) (VP (ADVP hardly) stopped) .)",
+        "changed_pos": "ADP",
+        "original_word": "through",
+        "new_word": "throgh"
+    },
+    {
+        "sentence": "All trough August the rain hardly stopped.",
+        "const_tree": "(S (NP (NP All) (PP trough August (NP the rain))) (VP (ADVP hardly) stopped) .)",
+        "changed_pos": "ADP",
+        "original_word": "through",
+        "new_word": "trough"
+    },
+    {
+        "sentence": "All thhriugh August the rain hardly stopped.",
+        "const_tree": "(S (NP (NP All) (PP thhriugh August (NP the rain))) (VP (ADVP hardly) stopped) .)",
+        "changed_pos": "ADP",
+        "original_word": "through",
+        "new_word": "thhriugh"
+    },
+    {
+        "sentence": "All througth August the rain hardly stopped.",
+        "const_tree": "(S (NP (NP All) (PP througth August (NP the rain))) (VP (ADVP hardly) stopped) .)",
+        "changed_pos": "ADP",
+        "original_word": "through",
+        "new_word": "througth"
+    },
+    {
+        "sentence": "All throuhg August the rain hardly stopped.",
+        "const_tree": "(S (NP (NP All) (PP throuhg August (NP the rain))) (VP (ADVP hardly) stopped) .)",
+        "changed_pos": "ADP",
+        "original_word": "through",
+        "new_word": "throuhg"
+    },
+    {
+        "sentence": "All through Agust the rain hardly stopped.",
+        "const_tree": "(S (NP (NP All) (PP through Agust (NP the rain))) (VP (ADVP hardly) stopped) .)",
+        "changed_pos": "PROPN",
+        "original_word": "August",
+        "new_word": "Agust"
+    },
+    {
+        "sentence": "All through Agost the rain hardly stopped.",
+        "const_tree": "(S (NP (NP All) (PP through Agost (NP the rain))) (VP (ADVP hardly) stopped) .)",
+        "changed_pos": "PROPN",
+        "original_word": "August",
+        "new_word": "Agost"
+    },
+    {
+        "sentence": "All through Agusto the rain hardly stopped.",
+        "const_tree": "(S (NP (NP All) (PP through Agusto (NP the rain))) (VP (ADVP hardly) stopped) .)",
+        "changed_pos": "PROPN",
+        "original_word": "August",
+        "new_word": "Agusto"
+    },
+    {
+        "sentence": "All through Augost the rain hardly stopped.",
+        "const_tree": "(S (NP (NP All) (PP through Augost (NP the rain))) (VP (ADVP hardly) stopped) .)",
+        "changed_pos": "PROPN",
+        "original_word": "August",
+        "new_word": "Augost"
+    },
+    {
+        "sentence": "All through August 5the rain hardly stopped.",
+        "const_tree": "(S (NP (NP All) (PP through August (NP 5the rain))) (VP (ADVP hardly) stopped) .)",
+        "changed_pos": "DET",
+        "original_word": "the",
+        "new_word": "5the"
+    },
+    {
+        "sentence": "All through August thez rain hardly stopped.",
+        "const_tree": "(S (NP (NP All) (PP through August (NP thez rain))) (VP (ADVP hardly) stopped) .)",
+        "changed_pos": "DET",
+        "original_word": "the",
+        "new_word": "thez"
+    },
+    {
+        "sentence": "All through August ghe rain hardly stopped.",
+        "const_tree": "(S (NP (NP All) (PP through August (NP ghe rain))) (VP (ADVP hardly) stopped) .)",
+        "changed_pos": "DET",
+        "original_word": "the",
+        "new_word": "ghe"
+    },
+    {
+        "sentence": "All through August tehe rain hardly stopped.",
+        "const_tree": "(S (NP (NP All) (PP through August (NP tehe rain))) (VP (ADVP hardly) stopped) .)",
+        "changed_pos": "DET",
+        "original_word": "the",
+        "new_word": "tehe"
+    },
+    {
+        "sentence": "All through August dth rain hardly stopped.",
+        "const_tree": "(S (NP (NP All) (PP through August (NP dth rain))) (VP (ADVP hardly) stopped) .)",
+        "changed_pos": "DET",
+        "original_word": "the",
+        "new_word": "dth"
+    },
+    {
+        "sentence": "All through August the raiin hardly stopped.",
+        "const_tree": "(S (NP (NP All) (PP through August (NP the raiin))) (VP (ADVP hardly) stopped) .)",
+        "changed_pos": "NOUN",
+        "original_word": "rain",
+        "new_word": "raiin"
+    },
+    {
+        "sentence": "All through August the raining hardly stopped.",
+        "const_tree": "(S (NP (NP All) (PP through August (NP the raining))) (VP (ADVP hardly) stopped) .)",
+        "changed_pos": "NOUN",
+        "original_word": "rain",
+        "new_word": "raining"
+    },
+    {
+        "sentence": "All through August the rains hardly stopped.",
+        "const_tree": "(S (NP (NP All) (PP through August (NP the rains))) (VP (ADVP hardly) stopped) .)",
+        "changed_pos": "NOUN",
+        "original_word": "rain",
+        "new_word": "rains"
+    },
+    {
+        "sentence": "All through August the fain hardly stopped.",
+        "const_tree": "(S (NP (NP All) (PP through August (NP the fain))) (VP (ADVP hardly) stopped) .)",
+        "changed_pos": "NOUN",
+        "original_word": "rain",
+        "new_word": "fain"
+    },
+    {
+        "sentence": "All through August the rain herdly stopped.",
+        "const_tree": "(S (NP (NP All) (PP through August (NP the rain))) (VP (ADVP herdly) stopped) .)",
+        "changed_pos": "ADV",
+        "original_word": "hardly",
+        "new_word": "herdly"
+    },
+    {
+        "sentence": "All through August the rain hardly stoppes.",
+        "const_tree": "(S (NP (NP All) (PP through August (NP the rain))) (VP (ADVP hardly) stoppes) .)",
+        "changed_pos": "VERB",
+        "original_word": "stopped",
+        "new_word": "stoppes"
+    },
+    {
+        "sentence": "All through August the rain hardly stoped.",
+        "const_tree": "(S (NP (NP All) (PP through August (NP the rain))) (VP (ADVP hardly) stoped) .)",
+        "changed_pos": "VERB",
+        "original_word": "stopped",
+        "new_word": "stoped"
+    },
+    {
+        "sentence": "All through August the rain hardly sstopped.",
+        "const_tree": "(S (NP (NP All) (PP through August (NP the rain))) (VP (ADVP hardly) sstopped) .)",
+        "changed_pos": "VERB",
+        "original_word": "stopped",
+        "new_word": "sstopped"
+    },
+    {
+        "sentence": "All through August the rain hardly stop.",
+        "const_tree": "(S (NP (NP All) (PP through August (NP the rain))) (VP (ADVP hardly) stop) .)",
+        "changed_pos": "VERB",
+        "original_word": "stopped",
+        "new_word": "stop"
+    },
+    {
+        "sentence": "Thinks the gods he didn't have to know of this.",
+        "const_tree": "(S (VP Thinks (NP (NP the gods) (SBAR (S (NP he) (VP did n't (VP have (S (VP to (VP know (PP of (NP this))))))))))) .)",
+        "changed_pos": "VERB",
+        "original_word": "Thank",
+        "new_word": "Thinks"
+    },
+    {
+        "sentence": "Tanky the gods he didn't have to know of this.",
+        "const_tree": "(S (VP Tanky (NP (NP the gods) (SBAR (S (NP he) (VP did n't (VP have (S (VP to (VP know (PP of (NP this))))))))))) .)",
+        "changed_pos": "VERB",
+        "original_word": "Thank",
+        "new_word": "Tanky"
+    },
+    {
+        "sentence": "Think the gods he didn't have to know of this.",
+        "const_tree": "(S (VP Think (NP (NP the gods) (SBAR (S (NP he) (VP did n't (VP have (S (VP to (VP know (PP of (NP this))))))))))) .)",
+        "changed_pos": "VERB",
+        "original_word": "Thank",
+        "new_word": "Think"
+    },
+    {
+        "sentence": "Thak the gods he didn't have to know of this.",
+        "const_tree": "(S (VP Thak (NP (NP the gods) (SBAR (S (NP he) (VP did n't (VP have (S (VP to (VP know (PP of (NP this))))))))))) .)",
+        "changed_pos": "VERB",
+        "original_word": "Thank",
+        "new_word": "Thak"
+    },
+    {
+        "sentence": "Thank there gods he didn't have to know of this.",
+        "const_tree": "(S (VP Thank (NP (NP there gods) (SBAR (S (NP he) (VP did n't (VP have (S (VP to (VP know (PP of (NP this))))))))))) .)",
+        "changed_pos": "DET",
+        "original_word": "the",
+        "new_word": "there"
+    },
+    {
+        "sentence": "Thank tho gods he didn't have to know of this.",
+        "const_tree": "(S (VP Thank (NP (NP tho gods) (SBAR (S (NP he) (VP did n't (VP have (S (VP to (VP know (PP of (NP this))))))))))) .)",
+        "changed_pos": "DET",
+        "original_word": "the",
+        "new_word": "tho"
+    },
+    {
+        "sentence": "Thank teh gods he didn't have to know of this.",
+        "const_tree": "(S (VP Thank (NP (NP teh gods) (SBAR (S (NP he) (VP did n't (VP have (S (VP to (VP know (PP of (NP this))))))))))) .)",
+        "changed_pos": "DET",
+        "original_word": "the",
+        "new_word": "teh"
+    },
+    {
+        "sentence": "Thank the dogs he didn't have to know of this.",
+        "const_tree": "(S (VP Thank (NP (NP the dogs) (SBAR (S (NP he) (VP did n't (VP have (S (VP to (VP know (PP of (NP this))))))))))) .)",
+        "changed_pos": "NOUN",
+        "original_word": "gods",
+        "new_word": "dogs"
+    },
+    {
+        "sentence": "Thank the gods he din't have to know of this.",
+        "const_tree": "(S (VP Thank (NP (NP the gods) (SBAR (S (NP he) (VP di n't (VP have (S (VP to (VP know (PP of (NP this))))))))))) .)",
+        "changed_pos": "AUX",
+        "original_word": "did",
+        "new_word": "di"
+    },
+    {
+        "sentence": "Thank the gods he doinn't have to know of this.",
+        "const_tree": "(S (VP Thank (NP (NP the gods) (SBAR (S (NP he) (VP doin n't (VP have (S (VP to (VP know (PP of (NP this))))))))))) .)",
+        "changed_pos": "AUX",
+        "original_word": "did",
+        "new_word": "doin"
+    },
+    {
+        "sentence": "Thank the gods he dIdn't have to know of this.",
+        "const_tree": "(S (VP Thank (NP (NP the gods) (SBAR (S (NP he) (VP dId n't (VP have (S (VP to (VP know (PP of (NP this))))))))))) .)",
+        "changed_pos": "AUX",
+        "original_word": "did",
+        "new_word": "dId"
+    },
+    {
+        "sentence": "Thank the gods he diddn't have to know of this.",
+        "const_tree": "(S (VP Thank (NP (NP the gods) (SBAR (S (NP he) (VP didd n't (VP have (S (VP to (VP know (PP of (NP this))))))))))) .)",
+        "changed_pos": "AUX",
+        "original_word": "did",
+        "new_word": "didd"
+    },
+    {
+        "sentence": "Thank the gods he didin ' t have to know of this.",
+        "const_tree": "(S (VP Thank (NP (NP the gods) (SBAR (S (NP he) (VP did in ' t (VP have (S (VP to (VP know (PP of (NP this))))))))))) .)",
+        "changed_pos": "PART",
+        "original_word": "n't",
+        "new_word": "in ' t"
+    },
+    {
+        "sentence": "Thank the gods he didn ' it have to know of this.",
+        "const_tree": "(S (VP Thank (NP (NP the gods) (SBAR (S (NP he) (VP did n ' it (VP have (S (VP to (VP know (PP of (NP this))))))))))) .)",
+        "changed_pos": "PART",
+        "original_word": "n't",
+        "new_word": "n ' it"
+    },
+    {
+        "sentence": "Thank the gods he didNo ' t have to know of this.",
+        "const_tree": "(S (VP Thank (NP (NP the gods) (SBAR (S (NP he) (VP did No ' t (VP have (S (VP to (VP know (PP of (NP this))))))))))) .)",
+        "changed_pos": "PART",
+        "original_word": "n't",
+        "new_word": "No ' t"
+    },
+    {
+        "sentence": "Thank the gods he didn ' th have to know of this.",
+        "const_tree": "(S (VP Thank (NP (NP the gods) (SBAR (S (NP he) (VP did n ' th (VP have (S (VP to (VP know (PP of (NP this))))))))))) .)",
+        "changed_pos": "PART",
+        "original_word": "n't",
+        "new_word": "n ' th"
+    },
+    {
+        "sentence": "Thank the gods he didn't hav to know of this.",
+        "const_tree": "(S (VP Thank (NP (NP the gods) (SBAR (S (NP he) (VP did n't (VP hav (S (VP to (VP know (PP of (NP this))))))))))) .)",
+        "changed_pos": "VERB",
+        "original_word": "have",
+        "new_word": "hav"
+    },
+    {
+        "sentence": "Thank the gods he didn't Hve to know of this.",
+        "const_tree": "(S (VP Thank (NP (NP the gods) (SBAR (S (NP he) (VP did n't (VP Hve (S (VP to (VP know (PP of (NP this))))))))))) .)",
+        "changed_pos": "VERB",
+        "original_word": "have",
+        "new_word": "Hve"
+    },
+    {
+        "sentence": "Thank the gods he didn't yave to know of this.",
+        "const_tree": "(S (VP Thank (NP (NP the gods) (SBAR (S (NP he) (VP did n't (VP yave (S (VP to (VP know (PP of (NP this))))))))))) .)",
+        "changed_pos": "VERB",
+        "original_word": "have",
+        "new_word": "yave"
+    },
+    {
+        "sentence": "Thank the gods he didn't hamve to know of this.",
+        "const_tree": "(S (VP Thank (NP (NP the gods) (SBAR (S (NP he) (VP did n't (VP hamve (S (VP to (VP know (PP of (NP this))))))))))) .)",
+        "changed_pos": "VERB",
+        "original_word": "have",
+        "new_word": "hamve"
+    },
+    {
+        "sentence": "Thank the gods he didn't having to know of this.",
+        "const_tree": "(S (VP Thank (NP (NP the gods) (SBAR (S (NP he) (VP did n't (VP having (S (VP to (VP know (PP of (NP this))))))))))) .)",
+        "changed_pos": "VERB",
+        "original_word": "have",
+        "new_word": "having"
+    },
+    {
+        "sentence": "Thank the gods he didn't have to no of this.",
+        "const_tree": "(S (VP Thank (NP (NP the gods) (SBAR (S (NP he) (VP did n't (VP have (S (VP to (VP no (PP of (NP this))))))))))) .)",
+        "changed_pos": "VERB",
+        "original_word": "know",
+        "new_word": "no"
+    },
+    {
+        "sentence": "Thank the gods he didn't have to kwow of this.",
+        "const_tree": "(S (VP Thank (NP (NP the gods) (SBAR (S (NP he) (VP did n't (VP have (S (VP to (VP kwow (PP of (NP this))))))))))) .)",
+        "changed_pos": "VERB",
+        "original_word": "know",
+        "new_word": "kwow"
+    },
+    {
+        "sentence": "Thank the gods he didn't have to knowd of this.",
+        "const_tree": "(S (VP Thank (NP (NP the gods) (SBAR (S (NP he) (VP did n't (VP have (S (VP to (VP knowd (PP of (NP this))))))))))) .)",
+        "changed_pos": "VERB",
+        "original_word": "know",
+        "new_word": "knowd"
+    },
+    {
+        "sentence": "Thank the gods he didn't have to kmow of this.",
+        "const_tree": "(S (VP Thank (NP (NP the gods) (SBAR (S (NP he) (VP did n't (VP have (S (VP to (VP kmow (PP of (NP this))))))))))) .)",
+        "changed_pos": "VERB",
+        "original_word": "know",
+        "new_word": "kmow"
+    },
+    {
+        "sentence": "Thank the gods he didn't have to knaw of this.",
+        "const_tree": "(S (VP Thank (NP (NP the gods) (SBAR (S (NP he) (VP did n't (VP have (S (VP to (VP knaw (PP of (NP this))))))))))) .)",
+        "changed_pos": "VERB",
+        "original_word": "know",
+        "new_word": "knaw"
+    },
+    {
+        "sentence": "Thank the gods he didn't have to know of DIS.",
+        "const_tree": "(S (VP Thank (NP (NP the gods) (SBAR (S (NP he) (VP did n't (VP have (S (VP to (VP know (PP of (NP DIS))))))))))) .)",
+        "changed_pos": "PRON",
+        "original_word": "this",
+        "new_word": "DIS"
+    },
+    {
+        "sentence": "Thank the gods he didn't have to know of his.",
+        "const_tree": "(S (VP Thank (NP (NP the gods) (SBAR (S (NP he) (VP did n't (VP have (S (VP to (VP know (PP of (NP his))))))))))) .)",
+        "changed_pos": "PRON",
+        "original_word": "this",
+        "new_word": "his"
+    },
+    {
+        "sentence": "Thank the gods he didn't have to know of thise.",
+        "const_tree": "(S (VP Thank (NP (NP the gods) (SBAR (S (NP he) (VP did n't (VP have (S (VP to (VP know (PP of (NP thise))))))))))) .)",
+        "changed_pos": "PRON",
+        "original_word": "this",
+        "new_word": "thise"
+    },
+    {
+        "sentence": "Thank the gods he didn't have to know of ti.",
+        "const_tree": "(S (VP Thank (NP (NP the gods) (SBAR (S (NP he) (VP did n't (VP have (S (VP to (VP know (PP of (NP ti))))))))))) .)",
+        "changed_pos": "PRON",
+        "original_word": "this",
+        "new_word": "ti"
+    },
+    {
+        "sentence": "Thank the gods he didn't have to know of thhis.",
+        "const_tree": "(S (VP Thank (NP (NP the gods) (SBAR (S (NP he) (VP did n't (VP have (S (VP to (VP know (PP of (NP thhis))))))))))) .)",
+        "changed_pos": "PRON",
+        "original_word": "this",
+        "new_word": "thhis"
+    }
+]
