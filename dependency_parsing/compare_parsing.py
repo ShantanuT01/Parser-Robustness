@@ -56,7 +56,7 @@ if __name__ == "__main__":
         row["uas_correct"] = uas_score
         row["uas"] = uas_score/len(true_dep)
         row["las_correct"] = las_score
-        row["las"] = uas_score/len(true_dep)
+        row["las"] = las_score/len(true_dep)
         rows.append(row)
     uas = accuracy_score(y_true, y_pred)
     count = 0.0
@@ -78,6 +78,7 @@ if __name__ == "__main__":
     cm = pd.DataFrame(cm_data).T.fillna(0)
     cm = cm.sort_index()
     cm = cm.sort_index(axis=1)
+    cm.to_csv("results/dependency/lg_confusion_matrix.csv")
    # print(cm_data["acomp"])
     plot_confusion_matrix(cm, "Large Confusion Matrix","plots/spacy_lg_confusion_matrix_adversarial.png")
 
@@ -91,4 +92,4 @@ if __name__ == "__main__":
     print("Total Number of Deprels:", len(y_true_rel))
     print("Mean UAS:", np.mean(sentence_level_uas))
     print("Mean LAS:", np.mean(sentence_level_las))
-    pd.DataFrame(rows).to_csv("results/dependency/lg_adversarial.csv",index=False)
+   # pd.DataFrame(rows).to_csv("results/dependency/lg_adversarial.csv",index=False)

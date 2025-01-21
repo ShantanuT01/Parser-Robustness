@@ -7,7 +7,7 @@ if __name__ == "__main__":
     lg_df = pd.read_csv("results/dependency/lg_adversarial.csv")
     trf_df = pd.read_csv("results/dependency/transformers_adversarial.csv")
     k = trf_df.merge(lg_df,on="sentence_id",suffixes=("_trf","_lg"))
-    k = k[k["sentence_id"] == 107]    
+    k = k[k["sentence_id"] == 269]    
     print(k[["las_trf","las_lg"]])
     df = pd.read_json("json/gold_standard_2024-2025_adversarial.json")
     nlp_lg = spacy.load("en_core_web_lg")
